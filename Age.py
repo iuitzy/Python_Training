@@ -5,3 +5,4 @@ elif Age > 65:
     print("You are a Senior Citizen")
 else:
     print("You are a Minor")
+
