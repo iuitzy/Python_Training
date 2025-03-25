@@ -1,0 +1,12 @@
+In this Handon practice the steps i followed to set up are as follows 
+1.Tried setting up the project setup in a modular way so the code would be in different folders easy to access and modify 
+2. created routes folder and in that separate route mechanism for user and products (used javascript for incrementing and decrementing the products)
+3. crud file for database operations and persistance 
+4. simple static styles 
+5. templates folder for a simple index.html 
+6.data.csv stores the data for the products 
+7.database.py for creating the db if the folder structure 
+
+I tried creating simple api for fetching all the data and posting it back to db and bare minimum css 
+
+and replicate the same end points given in the document

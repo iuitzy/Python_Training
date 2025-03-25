@@ -1,0 +1,970 @@
+,Supercharger,Street Address,City,State,Zip,Country,Stalls,kW,GPS,Elev(m),Open Date,Succesfull
+2,"Skjåk - Bismo, Norway",Skeimoplassen 8,Bismo,Innlandet,2690,Norway,18,250.0,"61.883135, 8.267249",396,11/16/2016,1
+5,"Oberhausen, Germany",Brammenring 30,Oberhausen,North Rhine-Westphalia,46047,Germany,12,250.0,"51.485653342468275, 6.8878134401085",39,12/18/2021,1
+7,"Guangzhou - International Finance Center, China",5 Zhujiangl Xi Road,Guangzhou,Guangdong,510000,China,10,120.0,"23.11766586, 113.3233006",3,4/13/2018,1
+8,"Glendale, AZ",6755 N Sunset Blvd,Glendale,AZ,85305,USA,16,250.0,"33.535965, -112.262776",326,3/20/2022,1
+9,"Massapequa, NY",926 Carmans Rd,Massapequa,NY,11758,USA,8,250.0,"40.701916, -73.432817",13,9/18/2021,1
+12,"Benavente, Spain","Centro de Transportes, Calle Simon Bolivar",Benavente,Castile and León,49600,Spain,8,250.0,"42.0076352, -5.6633678",710,10/29/2020,1
+13,"Markham - Woodside, ON","Smartcentres Markham Woodside, 3075 Hwy 7",Markham,ON,L3R 5Y5,Canada,20,150.0,"43.850286, -79.353573",187,6/28/2018,1
+14,"Kerpen, Germany",Kerpener Str. 150,Kerpen,North Rhine-Westphalia,50170,Germany,19,250.0,"50.897701, 6.682074",77,11/19/2022,1
+18,"Shanghai - International Medical Center, China","Ground Parking Lot, No. 4358 Kangxin Road, Pudong New Area",Shanghai,Shanghai,,China,8,120.0,"31.12181, 121.6278",5,1/22/2021,1
+20,"Veggli, Norway",Kolvegen 4,Veggli,Viken,3628,Norway,12,250.0,"60.040342, 9.156244",239,12/14/2022,1
+21,"Sand City, CA",2040 California Ave,Sand City,CA,93955,USA,12,250.0,"36.621976, -121.844208",16,4/17/2021,1
+22,"Zhongshan  Seaport City, China","Seaport City (B2), Shengping East Road",Zhongshan,Guangdong,528415,China,9,250.0,"22.6707, 113.2517",1,2021-08-09 00:00:00,1
+23,"Tel Aviv  Azrieli Town, Israel",3 Aluf Kalman Magen St,Tel Aviv,,,Israel,8,250.0,"32.078178, 34.793762",15,2022-02-07 00:00:00,1
+25,"Encino, NM","Exit 234, I-40",Encino,NM,88321,USA,8,250.0,"34.996195, -105.378114",1900,2017-08-06 00:00:00,1
+26,"Holzkirchen, Germany",Rosenheimer Str.,Holzkirchen,Bavaria,,Germany,8,250.0,"47.8811059, 11.7022684",685,3/29/2017,1
+27,"Lenox, MA",55 Pittsfield Rd,Lenox,MA,1240,USA,8,250.0,"42.377028, -73.277352",403,11/19/2022,1
+29,"Fresno, CA",6709 North Riverside Dr,Fresno,CA,93704,USA,10,150.0,"36.835455, -119.91058",91,1/29/2016,1
+30,"Shenzhen - AVIC China Southern Airlines Building, China","No.7 Langshan Road, Nanshan District, Shenzhen, Guangdong",Shenzhen,Guangdong,,China,9,250.0,"22.55534511, 113.9509052",25,9/22/2022,1
+31,"Melbourne, FL",4429 W Eau Gallie Blvd,Melbourne,FL,32934,USA,8,250.0,"28.119865, -80.699588",6,3/31/2022,1
+32,"Hallandale Beach, FL",701 N Federal Hwy,Hallandale Beach,FL,33009,USA,8,250.0,"25.993528, -80.143183",2,11/18/2022,1
+34,"Laramie, WY",1673 Centennial Dr,Laramie,WY,82070,USA,8,150.0,"41.32512, -105.618117",2180,8/31/2017,1
+35,"Vallejo - Solano Ave, CA",2001-2155 Solano Ave,Vallejo,CA,94590,USA,20,250.0,"38.104444, -122.230234",11,2022-08-09 00:00:00,1
+38,"Evergreen, AL",90 Liberty Hill Pl,Evergreen,AL,36401,USA,12,250.0,"31.457228, -86.961555",100,11/15/2022,1
+40,"Asheville - Thetford St, NC",264 Thetford St,Asheville,NC,28803,USA,12,250.0,"35.484012, -82.557638",648,10/19/2021,1
+41,"Laguna Seca, CA",1021 Monterey Salinas Hwy,Salinas,CA,93908,USA,8,250.0,"36.586463, -121.756108",238,9/15/2022,1
+43,"Shenzhen - China Merchants Smart City Area B, China","China Merchants Smart City, No. 3009, Guangming District, Bao'an District, Shenzhen City, Guangdong",Shenzhen,Guangdong,,China,9,250.0,"22.73579, 113.94845",36,2022-12-09 00:00:00,1
+44,"St. Louis Park, MN",3601 State Hwy 100 (MN-100),St. Louis Park,MN,55416,USA,8,250.0,"44.935964, -93.347857",269,5/27/2020,1
+46,"Grass Valley, CA",692 Freeman Lane,Grass Valley,CA,95949,USA,12,250.0,"39.199798, -121.064216",744,5/25/2023,1
+47,"Volda, Norway","Torvmyrvegen, next to E39",Volda,Møre og Romsdal,6100,Norway,12,250.0,"62.140694, 6.090757",66,2022-01-07 00:00:00,1
+48,"Johnstown, CO",5201 Nugget Rd,Johnstown,CO,80513,USA,20,250.0,"40.334593, -104.984935",1543,2017-08-06 00:00:00,1
+49,"Robertsdale, AL",20403 Co Rd 68,Robertsdale,AL,36567,USA,16,250.0,"30.633696, -87.677561",53,4/23/2022,1
+53,"San Leandro, CA",1201 Marina Blvd,San Leandro,CA,94577,USA,12,250.0,"37.709813, -122.164607",10,9/16/2022,1
+59,"Frederick - Ballenger Creek Pike, MD",5833 Ballenger Creek Pike,Frederick,MD,21703,USA,8,250.0,"39.392566, -77.438609",99,9/26/2014,1
+62,"Fair Oaks, IN",856 N 600 E,Fair Oaks,IN,47943,USA,12,250.0,"41.010608, -87.276583",209,8/28/2021,1
+63,"Indianapolis, IN",5120 Victory Dr,Indianapolis,IN,46203,USA,8,150.0,"39.702444, -86.079687",253,10/30/2014,1
+64,"Hood River - Cascade Ave, OR",2249 Cascade Ave,Hood River,OR,97031,USA,8,250.0,"45.709603, -121.534581",96,2021-04-11 00:00:00,1
+72,"Guangzhou - Science City Tesla Center, China","No.50 Nanxiang 1st Road, Science City, Huangpu District",Guangzhou,Guangdong,,China,8,120.0,"23.162031, 113.454682",26,1/22/2021,1
+74,"Chandler, AZ",3075 W Ray Rd,Chandler,AZ,85226,USA,12,250.0,"33.319309, -111.896576",362,10/17/2014,1
+75,"Sisseton, SD",Dakota Crossing 2410 S Dakota Hwy 10,Sisseton,SD,57262,USA,8,250.0,"45.65847, -97.017933",361,2023-01-03 00:00:00,1
+78,"Buchholz, Germany",An der Autobahn 4,Buchholz (Aller),,29690,Germany,8,250.0,"52.673902, 9.68717",29,6/21/2017,1
+79,"Eimeldingen, Germany",Im Rebacker 1,Eimeldingen,Baden-Württemberg,79591,Germany,12,250.0,"47.626517, 7.599646",268,2022-08-12 00:00:00,1
+81,"Framingham, MA",1 Worcester Rd,Framingham,MA,1701,USA,12,120.0,"42.303637, -71.394171",51,6/29/2018,1
+84,"Namur, Belgium",Chemin du Fort du Suarlée,Rhisnes,Namur,5080,Belgium,15,250.0,"50.48591, 4.79719",182,2020-02-11 00:00:00,1
+86,"Zhengzhou - Hongguang Concord Plaza, China","Zhongzhou Avenue and Minhang Road, Jinshui District",Zhengzhou,Henan,,China,10,120.0,"34.771949, 113.726284",90,1/22/2021,1
+90,"Chambray-Lès-Tours, France",213 Avenue du Grand Sud,Chambray-lès-Tours,Centre-Val de Loire,37170,France,24,250.0,"47.325519, 0.7135",88,9/15/2022,1
+91,"Rocklin (SC), CA",4361 Granite Dr,Rocklin,CA,95677,USA,18,150.0,"38.800537, -121.210485",98,2/20/2015,1
+94,"Shenzhen - Songri Dingsheng Building, China",9996 Shen Nan Da Dao,Shenzhen,Guangdong,518052,China,14,120.0,"22.540928, 113.932785",24,2014-04-04 00:00:00,1
+97,"Guangzhou - Zhongtai International, China","Underground Parking Lot, Zhongtai International Plaza, No. 161 Linhe West Road, Tianhe District",Guangzhou,Guangdong,,China,8,120.0,"23.155646, 113.329265",27,1/22/2021,1
+99,"Suqian - Hengli International Hotel, China","No. 88 Zehu West Road, Sucheng District, Suqian City, Jiangsu",Suqian,Jiangsu,,China,9,250.0,"33.959377, 118.255798",29,9/13/2022,1
+100,"Albert Lea - Happy Trails Lane, MN",820 Happy Trails Ln,Albert Lea,MN,56007,USA,8,150.0,"43.657608, -93.318547",382,8/15/2019,1
+102,"Bay Terrace, NY",2360 Bell Blvd,Queens,NY,11360,USA,8,250.0,"40.779701, -73.776321",5,7/26/2016,1
+104,"Halmstad, Sweden",Prästvägen 1,Halmstad,Halland,302 63,Sweden,28,250.0,"56.65737, 12.90728",8,6/22/2022,1
+108,"Melville - Walt Whitman Rd, NY",1350 Walt Whitman Rd,Melville,NY,11747,USA,12,250.0,"40.782905, -73.42252",36,5/19/2022,1
+109,"Seoul - Gold Cloth Mario, South Korea","Mario Outlet Hall 1 185, Digital-ro, Geumcheon-gu",Seoul,Seoul,,South Korea,9,250.0,"37.478, 126.8872",8,9/30/2022,1
+112,"Indianapolis North, IN",1300 E 86th St,Indianapolis,IN,46240,USA,16,250.0,"39.9139, -86.1392",240,,1
+113,"Redondo Beach, CA",2410 Marine Ave,Redondo Beach,CA,90278,USA,8,150.0,"33.894294, -118.367379",21,1/20/2015,1
+115,"London - Gatwick (SC), UK",3 County Oak Way,Crawley,England,RH11 7ST,United Kingdom,8,250.0,"51.135183, -0.191314",61,12/16/2020,1
+117,"Folkestone  France Bound Only, UK","Eurotunnel UK terminal, Ashford Rd",Folkestone,England,CT18 8XX,United Kingdom,8,150.0,"51.096752, 1.121336",66,2015-07-10 00:00:00,1
+119,"Lynnwood - 148th St SW, WA",3625 148th St SW,Lynnwood,WA,98087,USA,12,250.0,"47.865456, -122.282856",188,2017-02-05 00:00:00,1
+120,"Varazze, Italy","Marina di Varazze, 24 Via Maestri d'Ascia",Varazze,Liguria,17019,Italy,8,,"44.351747, 8.565401",16,7/29/2015,1
+121,"Shenzhen - Pearl River International Center, China","Crowne Plaza Pearl River Hotel, 9009 Longxiang Avenue, Longgang Central City, Longgang District",Shenzhen,Guangdong,,China,12,250.0,"22.729715, 114.256904",34,1/22/2021,1
+124,"Pleasanton, CA",6000 Johnson Dr,Pleasanton,CA,94588,USA,10,72.0,"37.700508, -121.908364",100,2019-01-05 00:00:00,1
+125,"Ningbo - Haishu Impression City, China","G2, B2, Haishu Impression City, No. 3666, Zhongshan West Road, Haishu District",Ningbo,Zhejiang,,China,9,250.0,"29.8957, 121.4775",4,2022-12-09 00:00:00,1
+130,"Grays, UK","Lakeside Shopping Centre, W Thurrock Way",Thurrock,England,RM20 2ZG,United Kingdom,16,250.0,"51.4894519, 0.2866192",5,1/25/2022,1
+132,"Culver City - Raintree Plaza, CA",10772 Jefferson Blvd,Culver City,CA,90230,USA,12,250.0,"34.001681, -118.393103",15,,1
+139,"Lafayette, LA",Stirling Center Dr,Lafayette,LA,70501,USA,8,250.0,"30.265264, -91.994232",3,2/13/2020,1
+140,"Z?bki (SC), Poland",Radzymi?ska 334,Z?bki,Masovia,1991-05-01 00:00:00,Poland,14,250.0,"52.30177, 21.08815",84,,1
+141,"Jim Thorpe - Northbound, PA",Pennsylvania Turnpike Milepost 86.1,Jim Thorpe,PA,18229,USA,8,250.0,"40.971484, -75.63068",497,5/29/2021,1
+145,"Ondara, Spain",Portal de la Marina Shopping Center,Ondara,Valencia,3760,Spain,8,250.0,"38.816908, 0.02222",41,8/20/2021,1
+146,"Spring, TX",294 Cypresswood Dr,Spring,TX,77388,USA,8,250.0,"30.050304, -95.438361",31,2022-01-10 00:00:00,1
+149,"Topeka, KS",5930 Huntoon St,Topeka,KS,66614,USA,8,150.0,"39.044199, -95.76046",283,10/17/2014,1
+150,"Lakewood, CA",5603 Woodruff Ave,Lakewood,CA,90713,USA,20,250.0,"33.858572, -118.116389",16,2022-06-12 00:00:00,1
+157,"Brea - S Madrona Ave, CA",175 S Madrona Ave,Brea,CA,92821,USA,24,250.0,"33.919492, -117.902014",109,2022-10-10 00:00:00,1
+160,"Columbia, NJ",19 Simpson Rd,Columbia,NJ,7832,USA,8,250.0,"40.933846, -75.100997",96,11/16/2021,1
+161,"Paramus - NJ-17, NJ",501 NJ-17,Paramus,NJ,7652,USA,8,250.0,"40.955391, -74.07467",17,3/25/2023,1
+163,"Alvdal, Norway","Steimosletta 1, Alvdal Taverna",Alvdal,Innlandet,2560,Norway,36,250.0,"62.114854, 10.616826",467,9/22/2014,1
+164,"Albuquerque - Louisiana Blvd NE, NM",2200 Louisiana Blvd NE,Albuquerque,NM,87110,USA,16,250.0,"35.104333, -106.566029",1614,3/23/2022,1
+168,"San Luis Obispo - Higuera St, CA",3897 S Higuera St,San Luis Obispo,CA,93401,USA,20,250.0,"35.247841, -120.67193",38,11/19/2021,1
+169,"Heston - Westbound, UK",M4 Junction 2-3,"Heston, Hounslow",England,TW5 9NB,United Kingdom,12,250.0,"51.4883, -0.3957",30,2023-10-05 00:00:00,1
+171,"Houston - Airline Dr, TX",2546 Airline Drive,Houston,TX,77009,USA,12,250.0,"29.809944, -95.381879",17,,1
+173,"Moffat, UK",A707,Moffat,Scotland,,United Kingdom,8,250.0,"55.329726, -3.445692",105,11/19/2012,1
+174,"Champaign, IL",2401 N Prospect Ave,Champaign,IL,61822,USA,8,150.0,"40.146209, -88.259884",228,3/23/2016,1
+176,"Ocala - W. Silver Springs Blvd, FL",3312 W Silver Springs Blvd,Ocala,FL,34475,USA,8,250.0,"29.1853376, -82.1773968",22,2022-10-05 00:00:00,1
+178,"Orlando - International Dr, FL",6315 International Dr,Orlando,FL,32819,USA,12,250.0,"28.461636, -81.467433",33,9/13/2013,1
+179,"Soledad - Front St, CA",100 Front St,Soledad,CA,93960,USA,8,250.0,"36.429889, -121.334477",56,11/21/2021,1
+180,"Melegnano, Italy","Ibis Styles Milano Melegnano via Dosetti, Localita' Francolino Carpiano",Carpiano,Lombardy,20080,Italy,8,150.0,"45.34834, 9.282206",87,2015-10-07 00:00:00,1
+182,"Rankweil, Austria",An der Maut 6,Rankweil,Vorarlberg,6830,Austria,16,250.0,"47.272928, 9.617586",445,3/27/2023,1
+186,"St. Johnsbury, VT",2000 Memorial Drive,St. Johnsbury,VT,5819,USA,8,250.0,"44.460841, -72.014819",179,9/30/2022,1
+190,"Sulphur Springs, TX",300 W Tomlinson Street St,Sulphur Springs,TX,75482,USA,8,150.0,"33.137172, -95.603239",151,6/29/2016,1
+191,"Xi'an - Jinhui Global Plaza, China","Parking lot of Jinhui Global Plaza, turn to Jinhutuo 1st Road, Yanta South Road, Yanta District",Xi'an,Shaanxi,,China,8,120.0,"34.187843, 108.971234",484,1/22/2021,1
+194,"Tucson, AZ",9255 S Rita Rd,Tucson,AZ,85747,USA,10,150.0,"32.083857, -110.803571",895,10/15/2017,1
+196,"Annecy, France",Avenue du Aix-les-Bains,Seynod,Auvergne-Rhône-Alpes,74600,France,16,250.0,"45.877176, 6.087829",561,9/30/2022,1
+197,"Decatur - E Ponce de Leon Ave, GA",118 E Ponce de Leon Ave,Decatur,GA,30030,USA,16,250.0,"33.776189, -84.295612",315,3/22/2023,1
+200,"Bochum - Ruhr Park, Germany",Am Einkaufszentrum 1,Bochum,North Rhine-Westphalia,44791,Germany,16,250.0,"51.495061, 7.284797",112,6/29/2021,1
+201,"Delray Beach, FL","Delray Marketplace, 14851 Lyons Rd",Delray Beach,FL,33446,USA,18,120.0,"26.455815, -80.190072",6,2018-01-07 00:00:00,1
+205,"Diamond Bar, CA",2785 S Diamond Bar Blvd,Diamond Bar,CA,91765,USA,24,250.0,"33.97577, -117.838484",219,2021-04-12 00:00:00,1
+206,"Brentwood, CA",2455 Sand Creek Rd,Brentwood,CA,94513,USA,16,250.0,"37.9466789, -121.7409128",41,3/31/2021,1
+211,"Chattanooga - Manufacturers Rd, TN",301 Manufacturers Rd,Chattanooga,TN,37405,USA,12,250.0,"35.063323, -85.314938",204,5/31/2023,1
+212,"Montauk, NY",95 Carl Fisher Plaza,Montauk,NY,11954,USA,8,250.0,"41.035822, -71.943868",6,2020-11-12 00:00:00,1
+213,"Clovis, CA",870 Herndon Ave,Clovis,CA,93612,USA,12,250.0,"36.836939, -119.6982",112,3/19/2021,1
+214,"Pasadena - S Lake Ave, CA",410 Shoppers Ln,Pasadena,CA,91106,USA,12,250.0,"34.139, -118.1312",236,,1
+215,"Daly City - Bryant St, CA",1590 Bryant St,Daly City,CA,94015,USA,32,250.0,"37.688188, -122.473605",57,6/30/2016,1
+218,"Kliplev, Denmark",Hjerneshøjvej 2,Aabenraa,Syddanmark,6200,Denmark,24,250.0,"54.940306, 9.378315",35,12/29/2022,1
+225,"Klamath Falls, OR",1401 Washburn Way,Klamath Falls,OR,97603,USA,8,150.0,"42.216906, -121.756218",1250,3/16/2017,1
+229,"Daqing - Kunlun Tangren Center, China","B1 Floor, No. 1 Kunlun Street, Ranghu Road District",Daqing,Heilongjiang,,China,9,250.0,"46.64125559, 124.8875917",149,1/22/2021,1
+230,"East Hampton, NY",8 Osborne Ln,East Hampton,NY,11937,USA,12,250.0,"40.965501, -72.189633",14,3/27/2022,1
+231,"Prairie du Chien, WI",525 S Marquette Rd,Prairie du Chien,WI,53821,USA,8,250.0,"43.045703, -91.141403",194,,1
+234,"North Canaan, CT",11 E Main St,Canaan,CT,6018,USA,8,250.0,"42.024331, -73.322684",207,4/17/2020,1
+237,"South Barrington, IL",100 W Higgins Rd,South Barrington,IL,60010,USA,12,250.0,"42.0748, -88.1868",256,9/22/2022,1
+238,"Montbéliard, France",ZAC du Pied des Gouttes,Montbéliard,Bourgogne-Franche-Comté,25200,France,16,250.0,"47.500266, 6.811016",335,1/25/2023,1
+241,"Lake Delton, WI",1070 Wisconsin Dells Pkwy S,Lake Delton,WI,53913,USA,12,250.0,"43.576852, -89.77949",274,2022-08-06 00:00:00,1
+243,"London - Canary Wharf, UK","The Canada Square Car Park, Montgomery Street",London,England,E14 5EW,United Kingdom,12,250.0,"51.504346, -0.016146",293,8/27/2014,1
+244,"Cabazon, CA",48400 Seminole Dr,Cabazon,CA,92230,USA,16,150.0,"33.93129, -116.820041",620,12/17/2014,1
+248,"Clackamas, OR",8936 SE Sunnyside Rd,Clackamas,OR,97015,USA,12,250.0,"45.431963, -122.572314",50,7/17/2014,1
+252,"Socorro, NM",1100 N California Street,Socorro,NM,87801,USA,8,250.0,"34.071707, -106.892957",1402,8/30/2022,1
+255,"Guangzhou - Baixin Plaza, China","B3, Baixin Plaza, No. 1399, Airport Road, Baiyun District, Guangzhou City, Guangdong",Guangzhou,Guangdong,,China,15,250.0,"23.194897, 113.260567",5,9/16/2022,1
+259,"Béziers, France",La Méridienne,Villeneuve-lès-Béziers,Occitanie,34420,France,24,250.0,"43.335324, 3.284466",37,3/28/2023,1
+261,"Scotch Corner, UK",Holiday Inn Darlington - A1 & A66,Richmond,England,DL10 6NR,United Kingdom,8,150.0,"54.4421, -1.6713",148,6/27/2018,1
+262,"Quartzsite - Main Event Ln, AZ",370 W Main Event Ln,Quartzsite,AZ,85346,USA,88,250.0,"33.66288, -114.240091",275,5/24/2017,1
+264,"Lee, MA",10 Pleasant St,Lee,MA,1238,USA,8,150.0,"42.29571, -73.239245",267,8/20/2016,1
+267,"Dongying - Financial Port, China","Dongying Financial Port Above Ground Parking Lot, No. 55, Fuqian Street, Dongying District",Dongying,Shandong,,China,9,250.0,"37.44052, 118.71",2,1/22/2021,1
+273,"Wuhan - Shimao W, China","Wuhan Shimao Wઉꙺ뜢 2#, Parrot Road, Hanyang District, Wuhan City, Hubei",Wuhan,Hubei,,China,9,250.0,"30.53271102, 114.2701003",12,9/22/2022,1
+275,"Miner, MO",2612 E Malone Ave,Miner,MO,63801,USA,8,150.0,"36.893583, -89.533986",94,2016-01-06 00:00:00,1
+276,"Shanghai - ATLATL Innovation R&D Center, China","1077 Zhangheng Road, Pudong New Area",Shanghai,Shanghai,,China,10,120.0,"31.19007213, 121.6028495",5,1/22/2021,1
+277,"Shijiazhuang - Shijiazhuang Tesla Center, China","Hebei International Automobile Park, No. 86, North Second Ring East Road, Chang'an District",Shijiazhuang,Hebei,,China,8,150.0,"38.080165, 114.55631",72,2022-10-09 00:00:00,1
+278,"Waller, TX",40900 US-290,Waller,TX,77484,USA,16,250.0,"30.070698, -95.930431",80,5/26/2022,1
+279,"Southaven, MS",150 Goodman Rd W,Southaven,MS,38671,USA,8,250.0,"34.963441, -89.99184",98,5/17/2023,1
+280,"Shanghai - Sheraton Waigaoqiao Hotel, China","Underground Parking Lot, Sheraton Hotel, No. 28, Jilong Road, Pudong New Area",Shanghai,Shanghai,,China,8,120.0,"31.35079508, 121.5884893",4,1/22/2021,1
+281,"Milpitas - 20 S Abbott Ave, CA",20 S Abbott Ave,Milpitas,CA,95035,USA,8,250.0,"37.427494, -121.9134",5,,1
+282,"Lohfelden, Germany",Alexander-von-Humboldt-Straße,Lohfelden,Hesse,34253,Germany,8,250.0,"51.27187563197629, 9.52591726573977",166,5/23/2023,1
+284,"Winter Park, FL",901 N Orlando Ave,Winter Park,FL,32789,USA,12,250.0,"28.604988, -81.365915",31,3/17/2021,1
+285,"Beijing - Huateng Xintiandi, China","Huateng Xintiandi, No. 195, East Fourth Ring Middle Road, Chaoyang District, Beijing",Beijing,Beijing,,China,10,150.0,"39.88538213, 116.4883231",37,9/22/2022,1
+286,"Vacaville - Harbison Dr, CA",2098 Harbison Dr,Vacaville,CA,95687,USA,12,250.0,"38.362178, -121.963212",38,,1
+298,"Boynton Beach, FL",650 N Congress Ave,Boynton Beach,FL,33426,USA,16,250.0,"26.533567, -80.089394",3,2022-02-08 00:00:00,1
+300,"Taree, NSW",Wynter St,Taree,NSW,2430,Australia,12,250.0,"-31.909195, 152.459707",17,5/24/2017,1
+302,"South Toms River, NJ",379 Dover Rd,Toms River,NJ,7857,USA,8,150.0,"39.941683, -74.211995",17,10/18/2019,1
+305,"Ørskog, Norway",By Fjellstova on Ørskogfjellet along E136/E39,Ørskog,Møre og Romsdal,6240,Norway,12,150.0,"62.520404, 6.915983",338,2018-10-07 00:00:00,1
+309,"Blyth, UK",Moto Service Area,Blyth,England,S81 8HG,United Kingdom,12,250.0,"53.387004, -1.0595363",29,2023-02-06 00:00:00,1
+311,"Kennebunk - Southbound, ME",I-95 Service Plaza,Kennebunk,ME,4043,USA,8,150.0,"43.410693, -70.560923",33,6/29/2018,1
+312,"Bernalillo, NM",1304 Warrior Way,Bernalillo,NM,87004,USA,8,250.0,"35.326303, -106.567036",1561,2017-03-03 00:00:00,1
+314,"Ardmore, OK",322 Holiday Dr,Ardmore,OK,73401,USA,8,150.0,"34.179106, -97.165632",259,3/13/2015,1
+315,"Birch - Eastbound, UK",M62 Birch Services East,Heywood,England,OL10 2QH,United Kingdom,14,250.0,"53.5675622, -2.2333578",113,12/18/2015,1
+333,"Helena, MT",3120 Queen Anns St,Helena,MT,59602,USA,8,250.0,"46.618173, -112.007628",1160,6/26/2020,1
+335,"Gaylord, MI",250 Meijer Dr,Gaylord,MI,49735,USA,10,150.0,"45.025577, -84.722201",398,6/21/2018,1
+336,"Posthausen, Germany",Posthausen 1,Ottersberg,Lower Saxony,28870,Germany,12,250.0,"53.059527, 9.164782",15,2021-02-09 00:00:00,1
+337,"Poncha Springs, CO",6250 Hwy 285,Poncha Springs,CO,81201,USA,8,150.0,"38.51174, -106.076394",2278,2018-02-02 00:00:00,1
+338,"Plano - W Spring Creek Pkwy, TX",7040 W Spring Creek Pkwy,Plano,TX,75024,USA,8,250.0,"33.08204, -96.850233",203,2023-02-03 00:00:00,1
+339,"Langhorne, PA",607 E Lincoln Hwy,Langhorne,PA,19047,USA,8,250.0,"40.163345, -74.904428",33,7/21/2022,1
+341,"Anderson, CA",5025 Rhonda Rd,Anderson,CA,96007,USA,8,250.0,"40.433579, -122.288611",149,,1
+344,"Hadera, Israel","10 Prof. Shectman, Hadera",Hadera,Haifa,,Israel,12,250.0,"32.440901, 34.893554",17,3/30/2023,1
+348,"San Fernando - Celis St, CA",1011 Pico St,San Fernando,CA,91340,USA,12,250.0,"34.281483, -118.44167",323,5/15/2021,1
+350,"Shanghai - Tangzhen Sunshine City, China","North District, Yangguang Tiandi, Tangzhen, No. 1, Lane 777, East Gaoke Road, Pudong New Area,",Shanghai,Shanghai,,China,10,120.0,"31.214167, 121.6555114",2,2021-09-02 00:00:00,1
+352,"Chico, CA",1951 E 20th St,Chico,CA,95928,USA,18,150.0,"39.726633, -121.802538",70,6/19/2019,1
+353,"Hilton Park - Northbound, UK",M6 Motorway (N) Junction 10A/11,Wolverhampton,England,WV11 2AT,United Kingdom,12,150.0,"52.644063, -2.058389",152,6/23/2020,1
+359,"Irvine - Von Karman Ave, CA",19100 Von Karman Ave,Irvine,CA,92612,USA,8,250.0,"33.670156, -117.858319",14,,1
+361,"Voss, Norway","Strandavegen 255, by REMA 1000 store",Skulestadmo,Vestland,5710,Norway,12,150.0,"60.658297, 6.436256",79,2017-08-12 00:00:00,1
+362,"Westampton - Rancocas Rd, NJ",570 Rancocas Rd,Westampton,NJ,8060,USA,8,250.0,"40.006811, -74.860835",20,11/25/2021,1
+366,"Glendale, WI",5699 N Centerpark Way,Glendale,WI,53217,USA,12,250.0,"43.121, -87.916222",195,2022-02-09 00:00:00,1
+369,"Pismo Beach, CA",333 Five Cities Dr,Pismo Beach,CA,93449,USA,12,250.0,"35.136408, -120.628662",12,2020-08-06 00:00:00,1
+371,"New Kent, VA",Emmaus Church Road,New Kent,VA,23124,USA,24,250.0,"37.505449, -77.081874",52,,1
+374,"Shenzhen - Shenzhen Bay Sports Center, China","Shenzhen Bay Sports Center, No.3001 Binhai Rd, Nanshan District",Shenzhen,Guangdong,,China,8,150.0,"22.519723, 113.950085",0,10/30/2014,1
+376,"Marysville, CA",5416 Lindhurst Ave,Marysville,CA,95901,USA,8,250.0,"39.111142, -121.55662",19,2023-06-02 00:00:00,1
+377,"Petersburg - Wagner Rd, VA",151 Wagner Rd,Petersburg,VA,23805,USA,8,250.0,"37.1906, -77.3663",47,2020-12-12 00:00:00,1
+381,"Alsfeld, Germany",Pfefferhöhe 1A,Alsfeld,Hesse,36304,Germany,16,250.0,"50.733921, 9.241608",342,10/15/2022,1
+382,"Yorba Linda, CA",18601 Yorba Linda Blvd,Yorba Linda,CA,92886,USA,8,250.0,"33.889175, -117.808082",121,5/25/2023,1
+383,"Taizhou - Wenling Yaoda Hotel, China","Wenling Yaoda International Hotel, No. 889 Wanchang Middle Road, Wenling City, Taizhou",Taizhou,Zhejiang,,China,9,250.0,"28.38946, 121.38435",5,9/20/2022,1
+384,"Redlands - W Stuart Ave, CA",275 W Stuart Ave,Redlands,CA,92373,USA,20,250.0,"34.059384, -117.185405",408,2022-04-07 00:00:00,1
+385,"Jonesboro, AR",3920 Southwest Dr,Jonesboro,AR,72404,USA,7,250.0,"35.7966, -90.7307",124,7/22/2022,1
+387,"Columbus - E Campus View Blvd, OH",179 East Campus View Blvd,Columbus,OH,43235,USA,16,250.0,"40.117451, -83.010743",278,7/17/2014,1
+388,"Treungen, Norway",Treungvegen close to the bridge over the river,Treungen,Vestfold og Telemark,3855,Norway,8,250.0,"59.018622, 8.52392",249,2021-12-11 00:00:00,1
+389,"Philadelphia - Penrose Ave, PA",2600 Penrose Ave,Philadelphia,PA,19145,USA,20,250.0,"39.905116, -75.19437",3,6/17/2021,1
+392,"Bensalem, PA",3620 Street Rd,Bensalem,PA,19020,USA,8,250.0,"40.124944, -74.963908",36,5/19/2020,1
+400,"Thornton, CO",237 E 120th Ave,Thornton,CO,80233,USA,8,250.0,"39.914711, -104.986758",1635,2/28/2020,1
+403,"Aire du Poulet de Bresse, France",A39 - Aire du Poulet de Bresse,Dommartin-lès-Cuiseaux,Bourgogne-Franche-Comté,71480,France,10,150.0,"46.496179, 5.310394",209,12/16/2017,1
+406,"North Providence, RI",1874 Mineral Spring Avenue,North Providence,RI,2904,USA,8,250.0,"41.8605, -71.4662",73,5/24/2017,1
+407,"Malaga, NJ",450 Delsea Dr,Malaga,NJ,8328,USA,8,250.0,"39.572, -75.0528",30,2021-09-12 00:00:00,1
+411,"Shenzhen - Futian Xianke Compound, China","Xianke University, Hongling North Road, Futian District, Shenzhen, Guangdong",Shenzhen,Guangdong,,China,8,250.0,"22.572042, 114.109926",20,10/26/2022,1
+412,"Bartonsville, PA",65 PA-611,Bartonsville,PA,18321,USA,8,250.0,"41.001772, -75.273151",237,8/24/2021,1
+413,"Phoenix - N 19th Ave, AZ",5715 N 19th Ave,Phoenix,AZ,85015,USA,12,250.0,"33.521819, -112.098656",351,11/14/2022,1
+417,"Mogliano Veneto, Italy",1 Via Bonfadini,Mogliano Veneto,Veneto,31021,Italy,16,250.0,"45.584722, 12.287137",5,12/23/2016,1
+424,"Michigan City, IN",5150 Franklin St,Michigan City,IN,46360,USA,20,250.0,"41.673833, -86.891234",201,3/24/2020,1
+426,"Montélimar, France",N7 Z.A. du Pavé,Saulce-sur-Rhône,Auvergne-Rhône-Alpes,26270,France,28,250.0,"44.6760522, 4.7963217",84,2019-05-07 00:00:00,1
+427,"Chelmsford (SC), UK","1 White Hart Ln, Springfield",Chelmsford,England,CM2 5EF,United Kingdom,8,250.0,"51.7503, 0.5114",41,2020-08-12 00:00:00,1
+429,"North Branch, MN",5842 Main St,North Branch,MN,55056,USA,8,250.0,"45.510887, -92.990596",272,2022-05-10 00:00:00,1
+440,"Orange, France",Rue Cinsault,Orange,Provence-Alpes-Côte dAzur,84100,France,16,250.0,"44.112164, 4.851759",61,10/27/2014,1
+441,"Los Angeles - N Soto St, CA",2200 N Soto St,Los Angeles,CA,90032,USA,8,250.0,"34.06908, -118.194724",121,7/26/2016,1
+448,"Robbinsdale, MN",3435 W Broadway Ave,Robbinsdale,MN,55422,USA,8,150.0,"45.018928, -93.32583",265,6/17/2019,1
+453,"Newhall, CA",23502 Newhall Ave,Santa Clarita,CA,91321,USA,16,250.0,"34.3683, -118.5092",413,2023-08-03 00:00:00,1
+455,"Idaho Springs, CO",1319 Miner St,Idaho Springs,CO,80452,USA,8,250.0,"39.741549, -105.518358",2303,2020-06-02 00:00:00,1
+456,"Merced - Martin Luther King Junior Way, CA",1425 Martin Luther King Jr Way,Merced,CA,95340,USA,12,250.0,"37.297988, -120.483354",52,2021-10-03 00:00:00,1
+460,"Shanghai - Jing'an International Center Phase II, China","59-068, Area C, B1, Jing'an International Center, No. 89, Yutong Road, Jing'an District, Shanghai",Shanghai,Shanghai,,China,20,120.0,"31.244733, 121.448901",9,12/30/2020,1
+462,"Kupferzell, Germany",Günther-Ziehl-Straße,Kupferzell,Baden-Württemberg,74635,Germany,22,250.0,"49.205262, 9.681546",348,7/17/2014,1
+465,"Basking Ridge, NJ",403 King George Rd,Basking Ridge,NJ,7920,USA,8,150.0,"40.655361, -74.529919",67,7/13/2019,1
+468,"Qingdao - Jinmaniu Energy and Environment Industrial Park, China","No. 700 Ground Parking Lot, Qingshan Road, Fushan Road Street, Licang District",Qingdao,Shandong,,China,10,120.0,"36.151751, 120.420835",14,1/22/2021,1
+469,"Twinsburg, OH",2495 E Aurora Rd,Twinsburg,OH,44087,USA,7,250.0,"41.311733, -81.449531",314,2022-07-02 00:00:00,1
+471,"Cixi - Hengyuan Plaza, China","Zone B, Floor B, Underground Parking Lot, Block B, Hengyuan Plaza, No. 1966, Beisanhuan East Road",Cixi,Zhejiang,,China,9,250.0,"30.20039, 121.285469",5,1/22/2021,1
+474,"Torino Grugliasco, Italy","Centro commerciale Le Gru, Grugliasco",Grugliasco,Piedmont,10095,Italy,12,250.0,"45.058812, 7.612638",272,3/26/2022,1
+475,"Shanghai - Shangpu Center, China","B1 and G, Shangpu Center, No. 99 Jiangwancheng Road, Yangpu District, Shanghai",Shanghai,Shanghai,,China,22,250.0,"31.3182, 121.5109",5,2022-12-09 00:00:00,1
+488,"Sebastian, FL",10950 Fellsmere Rd,Sebastian,FL,32958,USA,8,250.0,"27.767877, -80.549569",8,2022-09-12 00:00:00,1
+489,"Brierley Hill, UK","Port West Retail Park, Dudley Road, Brierley Hill, DY5 1AJ",Birmingham,England,DY5 1AJ,United Kingdom,12,250.0,"52.488298, -2.119374",146,,1
+490,"Bloomington, MN",2555 W 79th St,Bloomington,MN,55431,USA,16,250.0,"44.861, -93.3124",254,9/22/2022,1
+491,"Waldorf, MD",11505 Berry Rd,Waldorf,MD,20603,USA,8,250.0,"38.630127, -76.919032",67,4/20/2021,1
+492,"Victorville, CA",14598 7th St,Victorville,CA,92395,USA,16,250.0,"34.517047, -117.313614",897,12/20/2022,1
+495,"Henderson - Las Vegas Blvd S, NV",12300 Las Vegas Blvd S,Henderson,NV,89044,USA,24,250.0,"35.964283, -115.167124",755,,1
+497,"Changsha - Huayuan Face More, China",26 Lubianjing Jie,Changsha,Hunan,,China,10,120.0,"28.18891154, 112.96995616",49,1/15/2019,1
+499,"Oxford, UK","Wheatley services, London road by M40, interchange 8A",Oxford,England,OX33 1JL,United Kingdom,16,150.0,"51.7374, -1.0948",73,7/20/2015,1
+502,"Daegwallyeong, South Korea",Pyeongchang-gun Gyeonggang-ro 5754 25342 Daegwalnyeong-myeon,Daegwallyeong,Gangwon,25342,South Korea,8,250.0,"37.685276, 128.757475",831,2023-04-05 00:00:00,1
+503,"Sutherlin, OR",116 Clover Leaf Loop,Sutherlin,OR,97479,USA,51,250.0,"43.386902, -123.341367",136,2/17/2023,1
+504,"Cottonwood, CA",20635 Gas Point Rd,Cottonwood,CA,96022,USA,12,250.0,"40.389145, -122.288208",135,2022-04-05 00:00:00,1
+507,"San Antonio - W Loop 1604 N, TX",7010 W Loop 1604 N,San Antonio,TX,78254,USA,16,250.0,"29.503634, -98.69925",275,,1
+508,"San Rafael - Northgate Dr, CA",270 Northgate Dr,San Rafael,CA,94903,USA,12,250.0,"38.009266, -122.548661",6,5/24/2017,1
+509,"Sudbury, ON",2404 Long Lake Rd,Sudbury,ON,P3E 5H5,Canada,8,150.0,"46.440602, -81.00485",274,12/21/2017,1
+512,"Jiangmen - Jianwei Plaza, China","B1, Jianwei Plaza, Pengjiang District, Jiangmen City, Guangdong",Jiangmen,Guangdong,,China,9,250.0,"22.60958723, 113.0773103",26,9/20/2022,1
+513,"Philadelphia - Church St, PA",2501 Church St,Philadelphia,PA,19124,USA,8,250.0,"40.001987, -75.081547",6,3/17/2021,1
+516,"Menifee, CA",30340 Haun Rd,Menifee,CA,92584,USA,20,150.0,"33.679646, -117.174095",435,9/30/2019,1
+517,"East Rutherford, NJ",1 American Dream Way,East Rutherford,NJ,7073,USA,16,250.0,"40.811556, -74.064862",2,12/22/2022,1
+518,"Las Vegas - Grand Central Parkway, NV",875 S Grand Central Pkwy,Las Vegas,NV,89106,USA,8,250.0,"36.165908, -115.158343",622,9/15/2020,1
+519,"Leusden, Netherlands",Philipsstraat 18,Leusden,Utrecht,3833 LC,Netherlands,12,250.0,"52.1438244, 5.4169032",4,9/29/2020,1
+520,"Grove City, OH",2221 Stringtown Rd,Grove City,OH,43123,USA,8,150.0,"39.877253, -83.063448",243,1/16/2015,1
+521,"Leiderdorp, Netherlands",Persant Snoepweg 2,Leiderdorp,South Holland,2353 KA,Netherlands,24,150.0,"52.1601396, 4.5491453",2,4/18/2019,1
+523,"Lillesand - YX Station, Norway",Legdene 1,Lillesand,Agder,4790,Norway,40,250.0,"58.2398, 8.29855",102,,1
+526,"Ontario, OR",243 NE East Ln,Ontario,OR,97914,USA,8,250.0,"44.025597, -116.942114",655,2020-03-09 00:00:00,1
+527,"Mt Airy - Graceland Ln, NC",110 Graceland ln,Mt Airy,NC,27030,USA,8,250.0,"36.485545, -80.744773",348,2022-08-10 00:00:00,1
+528,"Obfelden - A4 Southbound, Switzerland",Eni,Obfelden,Zurich,8912,Switzerland,12,250.0,"47.272015, 8.437738",484,11/14/2020,1
+529,"Manahawkin, NJ",209 Stafford Park Blvd,Stafford Township,NJ,8050,USA,16,250.0,"39.711359, -74.285175",21,10/17/2014,1
+530,"McFarland, CA",31988 CA-46,McFarland,CA,93250,USA,8,250.0,"35.599782, -119.209871",130,4/29/2014,1
+531,"Eureka, CA","Bayshore Mall, 3300 Broadway St",Eureka,CA,95501,USA,8,150.0,"40.778885, -124.188383",6,8/17/2016,1
+536,"Mississauga, ON",3155 Argentia Rd,Mississauga,ON,L5N 8E1,Canada,16,120.0,"43.598116, -79.786045",208,1/25/2019,1
+537,"McComb, MS",1436 Delaware Ave,McComb,MS,39648,USA,8,150.0,"31.248479, -90.471779",137,11/23/2019,1
+543,"Bolu, Turkey","Ankara-Istanbul Highway, km 227","Yolçat?/Bolu, Turkey",,14030,Turkey,8,250.0,"40.72401491, 31.4647896",846,2023-04-04 00:00:00,1
+547,"Blagnac, France",1 avenue Georges Brassens,Blagnac,Occitanie,31700,France,16,250.0,"43.64766, 1.3697",146,6/18/2022,1
+548,"Rochester, NH",290 North Main St,Rochester,NH,3867,USA,8,150.0,"43.310917, -70.993265",71,12/26/2019,1
+554,"Seville, OH",8700 Wooster Pike,Seville,OH,44273,USA,12,250.0,"41.035687, -81.865126",343,,1
+556,"Fort Mill, SC",3725 Avenue of the Carolinas,Fort Mill,SC,29708,USA,12,250.0,"35.0964, -80.9359",191,5/20/2022,1
+557,"Alcácer do Sal, Portugal",Avenida José Saramago,Alcacér do Sal,Alentejo,7580-000,Portugal,10,150.0,"38.391941, -8.513867",60,8/31/2018,1
+560,"Bettendorf, IA",4850 Competition Dr,Bettendorf,IA,52722,USA,12,250.0,"41.591965, -90.462753",224,5/26/2023,1
+561,"West Chester Township, OH",7390 Tylersville Rd,West Chester,OH,45069,USA,12,250.0,"39.35612, -84.374546",261,3/28/2023,1
+565,"Cary - Bass Pro Ln, NC",801 Bass Pro Ln,Cary,NC,27513,USA,12,250.0,"35.831585, -78.769044",135,2022-05-08 00:00:00,1
+567,"Virginia Beach - Lynnhaven Pkwy, VA",1579 Lynnhaven Pkwy,Virginia Beach,VA,23453,USA,8,250.0,"36.795662, -76.102691",5,4/28/2023,1
+570,"Yeosu, South Korea","496-25, Sinwol-ro",Yeosu-si,Jeollanam,,South Korea,8,250.0,"34.72179, 127.69945",10,2021-10-12 00:00:00,1
+572,"Sacramento, CA",3668 North Freeway Blvd,Sacramento,CA,95834,USA,10,150.0,"38.637729, -121.49718",4,10/13/2017,1
+576,"Antwerp, Belgium",Luithagen-Haven 6,Antwerp,Antwerp,2030,Belgium,14,250.0,"51.26812, 4.40286",4,12/29/2017,1
+583,"Zevenaar, Netherlands",Doesburgseweg 39,Zevenaar,Gelderland,6902 PL,Netherlands,8,150.0,"51.94066, 6.0818",10,2013-06-12 00:00:00,1
+584,"Merry Hill, UK","Merry Hill Shopping Centre, Pedmore Rd, Brierley Hill",Birmingham,England,DY5 1QX,United Kingdom,14,250.0,"52.483377, -2.113597",124,2023-06-05 00:00:00,1
+585,"Fitchburg, WI",2920 Fitchrona Rd,Fitchburg,WI,53719,USA,16,250.0,"43.014476, -89.479453",323,10/17/2014,1
+586,"Shenandoah - Metropark Dr, TX",8811 Metropark Drive,Shenandoah,TX,77385,USA,8,250.0,"30.194964, -95.452548",39,11/25/2022,1
+587,"Tyngsborough, MA",440 Middlesex Rd,Tyngsborough,MA,1879,USA,12,250.0,"42.697265, -71.43988",46,8/24/2022,1
+592,"Staðarskáli, Iceland",N1 - Staðarskáli,Staður,Northwestern Region,500,Iceland,8,250.0,"65.14441, -21.083849",17,2020-09-11 00:00:00,1
+599,"Magliano Sabina, Italy","Hotel Ristorante ""La Pergola"", Via Flaminia km 64",Magliano Sabina,Lazio,2046,Italy,12,250.0,"42.372085, 12.471703",59,5/26/2016,1
+604,"Vestby, Norway",Senterveien 6,Vestby,Viken,1540,Norway,40,250.0,"59.602863, 10.741169",72,12/16/2020,1
+605,"Indio, CA",42100 Jackson St,Indio,CA,92203,USA,46,250.0,"33.741484, -116.215019",-3,9/26/2014,1
+606,"Sonoma, CA",276 E Napa St,Sonoma,CA,95476,USA,8,250.0,"38.29179, -122.452126",29,10/16/2021,1
+611,"Wickenburg, AZ",155 N Tegner St,Wickenburg,AZ,85390,USA,8,150.0,"33.9702333, -112.73165",628,2014-11-07 00:00:00,1
+612,"Manchester, CT",1470 Pleasant Valley Rd,Manchester,CT,6042,USA,16,150.0,"41.80455, -72.562267",41,12/18/2017,1
+614,"Heston - Eastbound, UK",M4 Junction 2-3,"Heston, Hounslow",England,TW5 9NB,United Kingdom,16,250.0,"51.4885427, -0.390266",34,3/23/2023,1
+616,"Montauban, France",445 Route du Nord,Montauban,Occitanie,82000,France,16,250.0,"44.036419, 1.378375",99,3/23/2022,1
+619,"Miami - SW 7th St, FL","CMX - Brickell City Centre, 701 South Miami Ave",Miami,FL,33130,USA,13,72.0,"25.76768, -80.192467",2,3/16/2018,1
+624,"Gold Coast, QLD","Pacific Fair, 61/2-30 Hooker Blvd",Broadbeach,Qld,4218,Australia,8,120.0,"-28.03527, 153.427327",4,12/22/2018,1
+625,"Mansfield, MA",280 School St,Mansfield,MA,2048,USA,8,150.0,"42.013729, -71.231754",45,6/30/2018,1
+627,"New Springfield - Mahoning Valley Service Plaza, OH","Milepost 273.2, Westbound, Ohio Turnpike",New Springfield,OH,44443,USA,8,250.0,"40.940129, -80.585293",380,11/30/2021,1
+628,"Plymouth, NC",840 U.S. 64,Plymouth,NC,27962,USA,8,150.0,"35.850587, -76.756116",5,2014-12-03 00:00:00,1
+631,"Bron, France","Rue André Boulloche, Aushopping Porte des Alpes, section 14",Bron,Auvergne-Rhône-Alpes,69500,France,28,250.0,"45.721799, 4.923919",200,12/22/2022,1
+633,"Gardena, CA",1425 Artesia Blvd,Gardena,CA,90248,USA,20,250.0,"33.873172, -118.300857",7,2014-04-04 00:00:00,1
+635,"Buellton, CA",555 McMurray Rd,Buellton,CA,93427,USA,10,150.0,"34.61456, -120.188387",114,7/13/2013,1
+636,"Camborne, UK","Trevenson Rd, Pool",Redruth,England,TR15 3RD,United Kingdom,8,250.0,"50.2275556, -5.2800278",97,8/26/2021,1
+639,"Martigny, Switzerland",Marché Relais St. Bernard by A9,Martigny,Valais,1920,Switzerland,20,250.0,"46.126595, 7.060944",451,2014-12-12 00:00:00,1
+645,"Ödeshög, Sweden","Liljekonvaljvägen 1, Dinners Östgötaporten",Ödeshög,Östergötland,599 31,Sweden,14,150.0,"58.227173, 14.668821",140,11/21/2014,1
+648,"Shenzhen - Dingjunshan Film Technology Industrial Park, China","7-2 Dingjunshan Film Technology Industrial Park, Baotian 1st Road, Baoan District",Shenzhen,Guangdong,,China,12,250.0,"22.5985, 113.8826",29,1/22/2021,1
+650,"Surrey - King George Blvd, BC",7550 King George Blvd,Surrey,BC,V3W 2T2,Canada,12,250.0,"49.139543, -122.845187",72,,1
+652,"Évry-Courcouronnes, France",3 Rue de la Mare Neuve,Évry-Courcouronnes,Île-de-France,91080,France,8,250.0,"48.615962, 2.423852",81,2023-12-05 00:00:00,1
+653,"Woodall - Southbound, UK","Woodall Motorway Services Area, M1 (south)",Sheffield,England,S26 7XR,United Kingdom,8,150.0,"53.314145, -1.281904",128,3/21/2017,1
+654,"Shanghai - Xintian 360 Plaza, China",2688 Chenxing Road,Shanghai,Shanghai,201100,China,10,120.0,"31.094776, 121.503914",3,2018-11-12 00:00:00,1
+662,"Lifton, UK",1 Fore St.,Lifton,England,PL16 0AA,United Kingdom,8,150.0,"50.643377, -4.284553",84,8/15/2017,1
+663,"Monroe Township, NJ",960 NJ-33,Monroe Township,NJ,8831,USA,8,250.0,"40.267115, -74.471887",36,2022-01-07 00:00:00,1
+664,"Limon, CO",2221 6th St,Limon,CO,80828,USA,14,250.0,"39.2688421, -103.708604",1652,6/21/2014,1
+665,"Cranberry Township - US 19, PA",20111 Rt 19,Cranberry Twp,PA,16066,USA,12,250.0,"40.6821667, -80.1018333",326,12/16/2022,1
+671,"San Clemente, CA",101 West Avenida Vista Hermosa,San Clemente,CA,92672,USA,49,250.0,"33.437177, -117.62712",46,11/17/2017,1
+673,"Pooler, GA",2111 Pooler Pkwy,Parker,GA,31322,USA,8,250.0,"32.079619, -81.281224",7,2021-05-11 00:00:00,1
+674,"White Plains, NY",423 Tarrytown Rd,White Plains,NY,10607,USA,12,250.0,"41.042806, -73.800899",60,7/17/2014,1
+678,"Freehold, NJ",909 NJ-33,Freehold,NJ,7728,USA,8,250.0,"40.238319, -74.228021",43,6/24/2020,1
+679,"Council Bluffs, IA",3815 Metro Dr,Council Bluffs,IA,51501,USA,8,150.0,"41.220935, -95.835622",299,2015-11-03 00:00:00,1
+680,"Brick Township, NJ",535 NJ-70,Brick Township,NJ,8723,USA,8,250.0,"40.056372, -74.15166",8,2017-01-04 00:00:00,1
+682,"Getafe, Spain","Av. Ada Lovelace, 23",Getafe,Madrid,28906,Spain,8,150.0,"40.290389, -3.696302",597,5/16/2018,1
+687,"Gigafactory Berlin-Brandenburg, Germany",Tesla-Straße,Grünheide,Brandenburg,15537,Germany,19,250.0,"52.39134, 13.79612",44,4/28/2023,1
+688,"Albany, GA",2825 Ledo Rd,Albany,GA,31707,USA,12,250.0,"31.62396, -84.215788",75,2022-12-08 00:00:00,1
+690,"Chengdu - Impression City, China","Impression City, No. 157, Section 2, Jianshe North Road, Chenghua District",Chengdu,Sichuan,,China,8,120.0,"30.67939, 104.1128",499,1/22/2021,1
+691,"Sparks, NV",700 N McCarran Blvd,Sparks,NV,89431,USA,8,250.0,"39.538137, -119.733926",1340,5/15/2023,1
+692,"North Miami Beach, FL",14075 Biscayne Blvd,North Miami Beac,FL,33181,USA,12,250.0,"25.906606, -80.157279",2,2022-05-09 00:00:00,1
+695,"Gilroy - Camino Arroyo, CA",6705 Camino Arroyo,Gilroy,CA,95020,USA,12,250.0,"37.000817, -121.554338",57,11/26/2020,1
+699,"Denver - 6691 Tower Rd, CO",6691 Tower Rd,Denver,CO,80249,USA,8,,"39.817784, -104.772242",1629,6/21/2017,1
+703,"West Palm Beach - 45th St, FL",2370 45th Street,West Palm Beach,FL,33401,USA,8,250.0,"26.758121, -80.088922",4,,1
+708,"Bellevue, WA",10333 NE 1st St,Bellevue,WA,98004,USA,8,72.0,"47.610717, -122.202226",28,3/30/2021,1
+716,"St. Augustine - World Commerce Pkwy, FL",200 World Commerce Pkwy,St. Augustine,FL,32092,USA,12,250.0,"29.983752, -81.464138",10,12/20/2022,1
+718,"Huai'an - Wuyue Plaza, China","lot A, B1 floor, underground, No. 1, Fengli Road, Huaian District, Huaian City, Jiangsu",Huaian,Jiangsu,,China,9,250.0,"33.5536, 119.124336",9,2022-12-09 00:00:00,1
+721,"Biganos, France",31 rue des Fonderies,Biganos,Nouvelle-Aquitaine,33380,France,12,250.0,"44.6375463, -0.9599049",12,2022-05-11 00:00:00,1
+722,"Long Beach, CA",6527 Pacific Coast Hwy,Long Beach,CA,90803,USA,20,250.0,"33.7574, -118.1074",3,5/16/2022,1
+723,"Xi'an - Wanzhong International Plaza, China",Qujiangchi East Road,Xi'an,Shaanxi,710061,China,14,120.0,"34.19501501, 108.98852562",482,2018-10-04 00:00:00,1
+725,"Marietta - Roswell Rd, GA",4475 Roswell Rd,Marietta,GA,30062,USA,8,250.0,"33.986776, -84.421616",317,9/22/2022,1
+726,"Sanford, NC",818 Spring Lane,Sanford,NC,27330,USA,12,250.0,"35.488112, -79.193398",98,11/30/2022,1
+727,"Hooksett (south), NH",Interstate 93 S,Hooksett,NH,3106,USA,12,150.0,"43.108363, -71.477625",95,1/15/2015,1
+729,"Weston, WV",39 Berlin Rd,Weston,WV,26452,USA,8,150.0,"39.019353, -80.416993",317,2017-02-10 00:00:00,1
+730,"Portland - Jantzen Beach Center, OR",1405 Jantzen Beach Center,Portland,OR,97217,USA,8,250.0,"45.611854, -122.684919",10,7/26/2016,1
+735,"Hope, BC",830-840 Fraser Ave,Hope,BC,V0X 1L0,Canada,10,150.0,"49.37829, -121.442822",44,2014-09-12 00:00:00,1
+736,"Tampa - E Hillsborough Ave, FL",7408 E Hillsborough Ave,Tampa,FL,33610,USA,8,250.0,"27.996805, -82.372668",11,3/29/2022,1
+738,"Maienfeld, Switzerland","Swiss Heidi Hotel, Werkhofstrasse 1",Maienfeld,Grisons,7304,Switzerland,14,125.0,"47.003972, 9.525835",503,10/27/2014,1
+747,"Kernersville, NC",1551 Glenn Center Dr,Kernersville,NC,27284,USA,8,250.0,"36.069842, -80.112057",294,2022-01-04 00:00:00,1
+751,"East Brunswick, NJ","Joyce Kilmer Service Area, New Jersey Turnpike",East Brunswick,NJ,8816,USA,8,250.0,"40.415973, -74.444706",36,2022-11-09 00:00:00,1
+752,"Chula Vista - Showroom Pl, CA",881 Showroom Pl,Chula Vista,CA,91914,USA,16,250.0,"32.651478, -116.954543",210,2/21/2023,1
+753,"Pearland, TX",11151 Shadow Creek Parkway,Pearland,TX,77584,USA,12,250.0,"29.580184, -95.392324",22,10/17/2014,1
+754,"Jasper, FL",6723 US-129,Jasper,FL,32052,USA,8,250.0,"30.446647, -82.933586",49,3/29/2022,1
+758,"Mealhada, Portugal","Portagem Bairrada Center-Hotelaria, R. São Domingos 20",Mealhada,Centro,3050-983,Portugal,20,150.0,"40.37306, -8.4805",55,10/22/2019,1
+760,"Lu?mierz, Poland",Lanowa 4,Lucmierz,?ód?,95-100,Poland,8,250.0,"51.887, 19.384297",145,5/13/2021,1
+761,"Harlingen, TX",6710 W Expy 83,Harlingen,TX,78552,USA,12,250.0,"26.1877, -97.7563",14,2022-12-08 00:00:00,1
+762,"Nanchang - Crowne Plaza, China",66 Hongwan Avenue,Nanchang,Jiangxi,330000,China,8,120.0,"28.70560753, 115.75606973",37,2/21/2018,1
+770,"Wenzhou - Shangri-La Hotel, China","2nd Floor, Underground Parking Lot, Shangri-La Hotel, No.1 Xiangyuan Rd",Wenzhou,Zhejiang,,China,10,120.0,"28.01461358, 120.723392",1,1/22/2021,1
+774,"Espoo, Finland","Nimismiehenpelto 1, behind Neste station",Espoo,,2770,Finland,12,250.0,"60.214756, 24.653074",17,,1
+776,"Loveland, CO",Embassy Suites at 4705 Clydesdale Pkwy,Loveland,CO,80538,USA,10,150.0,"40.44146, -104.991205",1546,12/29/2016,1
+778,"Meizhou - World Merchants Center, China","Ground parking lot of World Merchants Center, Xuehai Road, Meijiang District",Meizhou,Guangdong,,China,9,250.0,"24.29451549, 116.1489689",96,1/22/2021,1
+783,"Waldlaubersheim, Germany","Euro Rastpark Waldlaubersheim, auf dem Stein 1",Waldlaubersheim,Rhineland-Palatinate,55444,Germany,8,150.0,"49.923972, 7.825736",221,2/25/2015,1
+784,"Nottingham (SC), UK",29 Loughborough Rd,West Bridgford,England,NG2 7LG,United Kingdom,8,250.0,"52.9361, -1.1343",25,3/19/2021,1
+785,"Tacoma, WA",5219 Tacoma Mall Blvd,Tacoma,WA,98409,USA,12,250.0,"47.209113, -122.462621",102,3/15/2023,1
+786,"Needles - E Broadway St, CA",1020 E Broadway St,Needles,CA,92363,USA,12,250.0,"34.825734, -114.594896",166,2/27/2023,1
+796,"Stord, Norway",Vabakkjen 5,Stord,Vestland,5411,Norway,12,,"59.775422, 5.487135",47,,1
+800,"Schönefeld, Germany",Hans-Grade-Allee 5,Schönefeld,Brandenburg,12529,Germany,16,250.0,"52.388579, 13.498116",46,3/31/2023,1
+805,"Golden - Hwy 1, BC",1020 Trans-Canada Hwy,Golden,BC,V0A 1H1,Canada,8,250.0,"51.31105, -116.969442",804,2021-02-07 00:00:00,1
+806,"Panketal, Germany",Dorfstraße 1a,Panketal,Brandenburg,16341,Germany,8,250.0,"52.621233, 13.541756",64,6/30/2021,1
+813,"Wuxi - Hualuxe Hotel, China",15 6th Financial Street,Wuxi,Jiangsu,214000,China,8,120.0,"31.47987581, 120.30690575",5,2019-03-04 00:00:00,1
+814,"Selb, Germany",Vielitzer Str. 30-32,Selb,,95100,Germany,12,250.0,"50.17141845, 12.1225639",546,,1
+815,"Yantai - Red Star Macalline, China","north side of the intersection of Zhenda Road and Jintan South Road, Laishan District",Yantai,Shandong,,China,8,120.0,"37.44079, 121.4545",16,1/22/2021,1
+817,"Ånge, Sweden",141 Borgsjöbyn,Erikslund,Medelpad,841 97,Sweden,12,250.0,"62.537337, 15.918862",124,9/30/2021,1
+822,"Ladera Heights, CA",5245 W Centinela Ave,Los Angeles,CA,90045,USA,12,250.0,"33.978535, -118.37189",39,,1
+823,"Olathe, KS",18101 W 119th St,Olathe,KS,66061,USA,8,150.0,"38.912194, -94.795583",309,2019-11-06 00:00:00,1
+824,"West Springfield, VA",8320 Old Keene Mill Rd,Springfield,VA,22152,USA,12,250.0,"38.78044, -77.23179",103,7/15/2016,1
+827,"Flagstaff, AZ",2650 S Beulah Blvd,Flagstaff,AZ,86001,USA,12,150.0,"35.174272, -111.66328",2106,2014-10-01 00:00:00,1
+829,"Nanjing - Zidong Creative Park, China","Zidong International Creative Park, Qixia District, Nanjing City, Jiangsu",Nanjing,Jiangsu,,China,12,250.0,"32.080715, 118.909256",29,2022-12-09 00:00:00,1
+830,"Kunshan - Crowne Plaza Hotel, China","Underground Parking Lot of Crowne Plaza Kunshan, 666 Xiaolin Middle Road, Suzhou City",Kunshan,Jiangsu,,China,12,250.0,"31.410824, 120.964234",2,1/22/2021,1
+831,"Chengdu - Raffles, China","Raffles City, No. 3, Section 4, Renmin South Road, Wuhou District",Chengdu,Sichuan,,China,12,250.0,"30.63846, 104.0742",495,1/22/2021,1
+835,"Benton Harbor, MI",1920 Pipestone Rd,Benton Harbor,MI,49022,USA,12,250.0,"42.082115, -86.423841",195,7/31/2021,1
+836,"Assen, Netherlands",Balkenweg 1,Assen,Drenthe,9405 CC,Netherlands,20,250.0,"52.992932, 6.524337",13,12/20/2019,1
+839,"Bologna Casalecchio di Reno, Italy","Via Aldo Moro, 64",Bologna,Emilia-Romagna,40033,Italy,16,250.0,"44.483842, 11.268252",31,2022-01-04 00:00:00,1
+840,"West Springfield, MA",935 Riverdale St,West Springfield,MA,1089,USA,8,150.0,"42.130914, -72.621435",17,2/14/2015,1
+841,"Maumee, OH",1391 Conant St,Maumee,OH,43537,USA,8,150.0,"41.57835, -83.66465",192,1/13/2014,1
+846,"Storjord, Norway","By Storjord turistsenter, E6",Storjord,Nordland,8255,Norway,8,150.0,"66.814045, 15.401738",103,11/17/2014,1
+848,"Regina, SK",2325 Prince of Wales Dr,Regina,SK,S4V 3A4,Canada,8,250.0,"50.442508, -104.531998",578,12/13/2019,1
+849,"Dubai - Al Habtoor City, UAE","Al Habtoor City, Sheikh Zayed Road",Dubai,,,United Arab Emirates,12,250.0,"25.184568, 55.254376",2,2022-02-07 00:00:00,1
+851,"National Harbor - National Plaza, MD",120 Waterfront Street,Oxon Hill,MD,20745,USA,12,120.0,"38.785823, -77.015745",8,2013-11-12 00:00:00,1
+854,"Weert, Netherlands",Eindhovenseweg 101,Weert,Limburg,6002 TB,Netherlands,16,250.0,"51.28172, 5.65095",34,9/29/2022,1
+862,"Shenzhen - Shuibei IBC, China","??Shuibei IBC Shopping Mall, No. 3008 Buxin Road, Luohu District, Shenzhen, Guangdong",Shenzhen,Guangdong,,China,9,250.0,"22.57514, 114.12337",35,2022-12-09 00:00:00,1
+869,"Yorba Linda - Yorba Linda Blvd, CA",18180 Yorba Linda Blvd,Yorba Linda,CA,92886,USA,8,250.0,"33.887945, -117.816673",111,,1
+871,"Naples - Pine Ridge Rd, FL",2324 Pine Ridge Rd,Naples,FL,34109,USA,16,250.0,"26.209987, -81.769531",6,7/15/2016,1
+874,"Danbury, CT",7 Backus Ave,Danbury,CT,6810,USA,10,150.0,"41.379222, -73.477689",140,5/15/2018,1
+876,"Rouen, France",Angle Avenue de l'Université Rue de la Mare Sansoure,Saint-Étienne-du-Rouvray,Normandie,76800,France,12,250.0,"49.388964, 1.059818",76,6/30/2016,1
+878,"Shanghai - Kangqiao Xintian 360 Plaza, China","B1, Kangqiao Xintian 360 Plaza, No. 668 Xiupu Road, Pudong New Area, Shanghai",Shanghai,Shanghai,,China,9,250.0,"31.1255659, 121.565186",410,9/20/2022,1
+881,"Winnipeg, MB",1485 Portage Ave,Winnipeg,MB,R3G 0W4,Canada,8,250.0,"49.881297, -97.198141",234,2019-12-12 00:00:00,1
+882,"Hangzhou- Hengqi Kela Tianxi, China","Area A, B1 Floor, Hengqi. Kela Tianxi, Intersection of Dongning Rd and Huayuandou St",Hangzhou,Zhejiang,,China,10,120.0,"30.303073, 120.22139",11,1/22/2021,1
+883,"Colorado Springs - Forest Bluffs, CO",9297 Forest Bluffs View,Colorado Springs,CO,80920,USA,16,250.0,"38.965808, -104.785785",2051,2023-07-04 00:00:00,1
+886,"Palmanova, Italy","km 1600, S.P. 125",Aiello del Friuli UD,Friuli-Venezia Giulia,33041,Italy,16,250.0,"45.884158, 13.344976",18,12/29/2015,1
+887,"Badhoevedorp, Netherlands",Schipholweg 275,Badhoevedorp,North Holland,1171 PK,Netherlands,32,150.0,"52.328927, 4.78492",-4,11/21/2018,1
+898,"Monterey, CA",1100 Del Monte Center,Monterey,CA,93940,USA,14,250.0,"36.585729, -121.898765",67,2017-10-08 00:00:00,1
+902,"Gulsvik, Norway","Bjørkvikmoen 5, next to Circle K station",Flå,Viken,3539,Norway,22,150.0,"60.381236, 9.610003",147,6/21/2018,1
+906,"San Francisco - Geary Blvd, CA",2675 Geary Blvd,San Francisco,CA,94118,USA,34,250.0,"37.781806, -122.446146",94,5/20/2021,1
+908,"Hackensack, NJ",390 Hackensack Ave,Hackensack,NJ,7601,USA,8,250.0,"40.907703, -74.030779",6,,1
+909,"Brush, CO",1156 Colorado Ave,Brush,CO,80723,USA,8,150.0,"40.270895, -103.62223",1289,12/31/2016,1
+916,"Quinto, Switzerland",16 Via di Mezzo,Quinto,Ticino,6776,Switzerland,10,125.0,"46.515263, 8.67061",1010,9/27/2018,1
+917,"Maribo, Denmark",Europavej,Maribo,Sjælland,,Denmark,16,250.0,"54.778712, 11.477333",13,7/15/2016,1
+920,"Sioux Falls, SD",1900 South Marion Rd,Sioux Falls,SD,57106,USA,8,120.0,"43.527655, -96.790579",435,10/30/2017,1
+921,"Pompano Beach - Florida Turnpike Service Plaza, FL",MM 65 Florida's Turnpike,Pompano Beach,FL,33069,USA,8,250.0,"26.226546, -80.182431",5,2021-10-10 00:00:00,1
+924,"Columbus - Hilliard Rome Rd, OH",1661 Hilliard Rome Rd,Columbus,OH,43228,USA,12,250.0,"39.9831, -83.1529",285,2023-12-05 00:00:00,1
+926,"Brinkum, Germany",Rudolf-Diesel-Strasse 7,Stuhr,Lower Saxony,28816,Germany,12,150.0,"53.0282208, 8.8087104",7,7/24/2019,1
+927,"Beijing - Central Place Experience Store, China",79-81 Jianguo Road,Beijing,Beijing,,China,26,250.0,"39.90871, 116.48053",43,2016-09-10 00:00:00,1
+929,"Linstow, Germany",Krakower Ch. 1,Dobbin-Linstow,Mecklenburg-Vorpommern,18292,Germany,20,250.0,"53.618146, 12.371421",69,3/30/2023,1
+931,"Bemidji, MN",2000 Paul Bunyan Dr NW,Bemidji,MN,56601,USA,8,250.0,"47.492201, -94.907057",426,7/31/2021,1
+932,"Changsha - Sany Cloud Valley, China","parking lot at the entrance of Sanyi Yungu, Liangtang Road, Changsha County",Changsha,Hunan,,China,10,120.0,"28.24678085, 113.1044774",69,1/22/2021,1
+937,"Parry Sound, ON",292 Louisa Street,Parry Sound,ON,,Canada,8,120.0,"45.345576, -80.005751",228,2016-04-09 00:00:00,1
+938,"Antequera, Spain","Estación de Servicio, Autovia de Malaga A-45 salida 92, 29200 Antequera, Málaga, Spain",Antequera,Andalusia,29200,Spain,12,250.0,"37.1128821, -4.566694",422,2017-03-03 00:00:00,1
+940,"Los Angeles - 668 S Alameda St, CA",668 S Alameda St,Los Angeles,CA,90021,USA,8,250.0,"34.03575, -118.238039",76,,1
+942,"Brownsville - Ruben M Torres Blvd, TX",5850 Ruben M Torres Blvd,Brownsville,TX,78526,USA,16,250.0,"25.943731, -97.429042",6,,1
+943,"Alcobendas, Spain","Moraleja Green, Av. de Europa, 13,",Alcobendas,Madrid,28108,Spain,12,250.0,"40.519872, -3.657064",692,2021-03-12 00:00:00,1
+944,"Beaune Nord, France",13 Rue Gustave Eiffel,Beaune,Bourgogne-Franche-Comté,21200,France,28,250.0,"47.043151, 4.841372",234,3/31/2022,1
+946,"Ylöjärvi, Finland",Kumitie 2,Ylöjärvi,Pirkanmaa,33470,Finland,12,250.0,"61.55679, 23.562391",138,6/30/2016,1
+949,"Rade, Germany","Hoyer Autohof Hamburg Süd, Schlepelsberg 2, Neu Wulmstorf",Rade,Lower Saxony,21629,Germany,8,150.0,"53.369722, 9.802193",83,2015-10-06 00:00:00,1
+950,"Chongqing - Jiayu Emperor Hotel, China",206 Zhigang Avenue,Chongqing,Chongqing,,China,8,120.0,"29.504059, 106.530479",187,7/18/2017,1
+951,"Auburn - S College St, AL",110 E University Dr,Auburn,AL,36832,USA,12,250.0,"32.57645, -85.497641",186,2022-12-05 00:00:00,1
+952,"Red Hook, NY",35 Hannaford Dr,Red Hook,NY,12571,USA,8,250.0,"41.979518, -73.88216",71,2022-07-04 00:00:00,1
+956,"Eindhoven, Netherlands",Aalsterweg 322,Eindhoven,North Brabant,5644 RL,Netherlands,24,150.0,"51.407268, 5.479937",20,11/20/2015,1
+958,"Jim Thorpe - Southbound, PA",Pennsylvania Turnpike Milepost 86.1,Jim Thorpe,PA,18229,USA,8,250.0,"40.969331, -75.631379",497,5/27/2021,1
+959,"Newbridge (SC) - Edinburgh, UK",23 Cliftonhall Road,Edinburgh,Scotland,EH28 8PW,United Kingdom,16,250.0,"55.93391, -3.407749",49,12/17/2020,1
+961,"Guangzhou - Jinshazhou Aijili, China","ECAT Cultural and Creative Park, No. 2 Shafeng 3rd Road, Jinshazhou, Baiyun District",Guangzhou,Guangdong,,China,10,120.0,"23.15341, 113.20058",2,1/22/2021,1
+964,"Caen Nord, France",2 Rue du Clos Barbey,Saint-Contest,Normandie,14280,France,12,250.0,"49.20081, -0.39906",64,2017-01-04 00:00:00,1
+969,"Kriens, Switzerland",Ringstrasse 19,Kriens,Lucerne,6010,Switzerland,12,250.0,"47.017449, 8.301457",449,9/14/2022,1
+970,"Houston - Washington Ave, TX",804 Washington Avenue,Houston,TX,77007,USA,12,250.0,"29.766874, -95.36592",12,2017-02-07 00:00:00,1
+971,"Beijing - Daxing International Airport, China",Beijing Daxing International Airport P1 parking building,Beijing,Beijing,,China,8,120.0,"39.5212, 116.4219",27,1/22/2021,1
+973,"Mariposa, CA",5034 Coakley Circle,Mariposa,CA,95338,USA,12,250.0,"37.488952, -119.972428",605,2023-12-05 00:00:00,1
+974,"Red Deer County, AB",179 Leva Ave,Red Deer County,AB,T4E 0A5,Canada,8,250.0,"52.216324, -113.815141",890,12/20/2019,1
+976,"New River, AZ",3906 W New River Rd,New River,AZ,85087,USA,10,150.0,"33.91578, -112.14417",621,12/25/2019,1
+977,"Málaga, Spain",C. Alfonso Ponce de León,Málaga,Andalusia,29140,Spain,12,,"36.6558055, -4.4784348",8,2017-02-07 00:00:00,1
+979,"St. George, SC",5920 W Jim Bilton Blvd,St. George,SC,29477,USA,12,250.0,"33.195556, -80.599395",28,2021-03-09 00:00:00,1
+983,"Ljusdal, Sweden",Norra Järnvägsgatan 36,Ljusdal,Hälsingland,827 32,Sweden,11,250.0,"61.829746, 16.093612",141,2022-02-11 00:00:00,1
+984,"Edmonton, AB",5015 111 St,Edmonton,AB,T6H 4M6,Canada,8,150.0,"53.486136, -113.515746",684,2017-12-08 00:00:00,1
+986,"Berkåk, Norway","Mjukliveien 1, behind Berkåk veikro",Rennebu,Trøndelag,7391,Norway,20,150.0,"62.832142, 10.010141",439,12/16/2017,1
+988,"Kelowna, BC","Best Western, 2402 Hwy 97 N",Kelowna,BC,V1X 4J1,Canada,8,150.0,"49.885795, -119.429273",376,12/30/2015,1
+992,"Tomah, WI",201 Helen Walton Dr,Tomah,WI,54660,USA,8,250.0,"44.018885, -90.507493",293,11/16/2021,1
+994,"Avignon - le Pontet, France",414 Av. Louis Braille,Le Pontet,Provence-Alpes-Côte dAzur,84130,France,28,250.0,"43.980454, 4.879854",28,6/30/2022,1
+996,"Joppatowne, MD",1419 Mountain Rd,Joppatowne,MD,21085,USA,8,250.0,"39.440207, -76.345305",48,2023-04-05 00:00:00,1
+997,"Bourges, France",3 Rue Joseph Aristide,Bourges,Centre-Val de Loire,18000,France,10,150.0,"47.049393, 2.344843",154,6/29/2016,1
+998,"Villach, Austria",Maria-Gailer-Straße 38,Villach,Carinthia,9500,Austria,8,150.0,"46.604079, 13.86908",490,12/19/2014,1
+999,"Normal - E College Ave, IL",1900 E College Ave,Normal,IL,61761,USA,12,250.0,"40.511235, -88.947814",249,11/18/2021,1
+1000,"Lillehammer, Norway",Korgvegen 37,Lillehammer,Innlandet,2619,Norway,14,150.0,"61.13045, 10.43491",159,8/30/2013,1
+1001,"Savannah, GA",400 Airways Ave,Savannah,GA,31408,USA,8,125.0,"32.135507, -81.212767",6,1/15/2014,1
+1002,"Chengdu - Fanyue International, China","Area A, B2 Floor, Fanyue International Underground Parking Lot, Kehua Middle Road, Wuhou District",Chengdu,Sichuan,,China,8,120.0,"30.619452, 104.085617",486,1/22/2021,1
+1004,"Cangzhou - Wuyue Plaza, China","B1, Wuyue Plaza, Yongan South Avenue and Haihe West Road, Yunhe District, Cangzhou City, Hebei",Harbin,Hebei,,China,9,250.0,"38.2732909, 116.8269818",10,9/22/2022,1
+1008,"Asheville, NC",800 Brevard Rd,Asheville,NC,28806,USA,12,250.0,"35.531391, -82.604487",662,12/16/2015,1
+1016,"Almaraz, Spain","Autovía del Suroeste, km. 200",Almaraz,Extremadura,10350,Spain,10,150.0,"39.791255, -5.695668",315,4/26/2018,1
+1017,"Inje, South Korea","130, Sanghadap-ro, Kirin-myeon",Inje,Gangwon,,South Korea,8,250.0,"38.0053, 128.289",293,9/28/2022,1
+1018,"Overland Park, KS",9545 Antioch Rd,Overland Park,KS,66212,USA,12,250.0,"38.95535, -94.685593",284,2023-10-03 00:00:00,1
+1019,"Pecos, TX",N Frontage St,Pecos,TX,79772,USA,8,150.0,"31.400223, -103.486931",786,10/15/2018,1
+1021,"Bispingen, Germany",Horstfeldweg 9 by Snow Dome,Bispingen,Lower Saxony,29646,Germany,10,150.0,"53.104089, 9.981917",78,2015-08-12 00:00:00,1
+1023,"San Diego - Clairemont Mesa Blvd, CA",7373 Clairemont Mesa Blvd,San Diego,CA,92111,USA,12,250.0,"32.831963, -117.159547",32,12/20/2022,1
+1024,"Yakima, WA",121 N Fair Ave,Yakima,WA,98901,USA,8,250.0,"46.608814, -120.491244",317,3/30/2021,1
+1026,"Limburg an der Lahn, Germany",Vinzenz-Pallotti-Straße 1,Limburg,Hesse,65552,Germany,20,250.0,"50.381138, 8.089637",184,5/22/2022,1
+1028,"Hangzhou - Xixi Longhu Tianjie, China","Area A, B1 Floor, Xixitian Street, Longhu, Shuanglong Street, Xihu District",Hangzhou,Zhejiang,,China,8,120.0,"30.29249758, 120.068841",7,1/22/2021,1
+1030,"Maastricht, Netherlands",Slakweg 5,Maastricht,Limburg,6228 NB,Netherlands,24,250.0,"50.816731, 5.725374",56,2022-01-07 00:00:00,1
+1032,"East Brunswick - State Route 18, NJ",755 State Route 18,East Brunswick,NJ,8816,USA,16,150.0,"40.424107, -74.380069",46,6/21/2019,1
+1034,"Nörten-Hardenberg, Germany",Obere Dorfstraße 32,Nörten-Hardenberg,Lower Saxony,37176,Germany,12,250.0,"51.6325825, 9.9101065",148,2022-12-05 00:00:00,1
+1039,"Chicago - North Halsted, IL",1457 N Halsted St,Chicago,IL,60642,USA,10,72.0,"41.908043, -87.647839",181,2018-02-08 00:00:00,1
+1043,"San Diego - Balboa Mesa, CA",5617 Balboa Av,San Diego,CA,92111,USA,16,250.0,"32.818922, -117.179792",112,11/18/2020,1
+1046,"Wertheim - Almosenberg, Germany",Almosenberg 7,Wertheim,Baden-Württemberg,97877,Germany,12,250.0,"49.7715509, 9.5828063",183,2/17/2023,1
+1047,"Fairfield - Fairfield Centre, CT",696 Post Road,Fairfield,CT,6824,USA,12,250.0,"41.149854, -73.247068",4,5/24/2017,1
+1048,"Fuenlabrada (SC), Spain",11 Calle Almendro,Fuenlabrada,Madrid,28942,Spain,8,250.0,"40.298097, -3.820944",678,6/24/2022,1
+1051,"Sainte-Marie, QC",1000 Bd Vachon N,Sainte-Marie,QC,G6E 1M2,Canada,8,250.0,"46.45, -71.0308",150,10/17/2014,1
+1052,"Nanning - Liyuan Grand Metropark Hotel, China","underground parking lot of Liyuan Grand Metropark Hotel, No. 2 Libin Avenue, Qingxiu District",Nanning,Guangxi,,China,9,250.0,"22.79263722, 108.3763849",137,1/22/2021,1
+1058,"Harbin - Wangfujing Shopping Center, China","Parking Space B010, B2 Floor, No. 899, Jingjiang East Road, Daoli District",Harbin,Heilongjiang,,China,9,250.0,"45.738722, 126.572673",126,1/22/2021,1
+1059,"Gatwick Airport, UK","Gridserve Electric Forecourt, Gatwick Airport",Horley,England,RH6 0NT,United Kingdom,8,250.0,"51.1563, -0.1535",59,11/30/2021,1
+1060,"Terrebonne, QC",1115 montée des Pionniers,Terrebonne,QC,J6V 0E1,Canada,8,150.0,"45.727922, -73.511018",11,6/30/2016,1
+1065,"Dartford, UK","Bluewater, Greenhithe, Kent",London,England,DA9 9ST,United Kingdom,17,150.0,"51.438052, 0.26879",16,11/25/2014,1
+1068,"Windham, ME",797 Roosevelt Tr,Windham,ME,4062,USA,8,250.0,"43.84163, -70.441768",95,3/30/2023,1
+1069,"Portage - John T McCutcheon Travel Plaza, IN",Indiana Toll Rd,Portage,IN,46368,USA,8,250.0,"41.588366, -87.216556",187,12/24/2021,1
+1070,"Cedar Rapids, IA",20 Wilson Ave SW,Cedar Rapids,IA,52404,USA,8,250.0,"41.9564935, -91.6579808",236,4/28/2022,1
+1073,"Merrillville, IN",611 W Lincoln Hwy,Merrillville,IN,46410,USA,10,150.0,"41.468444, -87.343613",208,2018-09-05 00:00:00,1
+1075,"Dubai - Al Warqa, UAE","Al Habtoor Polo Resort Wadi Ai Safa 5, Emirates Road 611 Dubai DB",Dubai,Dubai,0,United Arab Emirates,8,250.0,"25.079477, 55.366287",7,12/21/2022,1
+1076,"Knoxville, TN",11038 Parkside Dr,Knoxville,TN,37934,USA,8,150.0,"35.901319, -84.149634",286,5/27/2015,1
+1077,"Sokcho, South Korea","186 Daepohang-gil, Sokcho-si, Gangwon-do 24900???? 186",Sokcho,Gangwon,24900,South Korea,7,250.0,"38.180856, 128.611593",38,2017-01-12 00:00:00,1
+1080,"Rimini, Italy","via Caduti di Nassiriya, centro commerciale Le Befane, Rimini",Rimini,Emilia-Romagna,47924,Italy,8,250.0,"44.040563, 12.589111",6,12/27/2022,1
+1083,"Verona, NY",5218 Patrick Rd,Verona,NY,13478,USA,12,250.0,"43.113201, -75.591176",160,9/30/2022,1
+1084,"Concord, NH",11 Merchants Way,Concord,NH,3303,USA,12,250.0,"43.289094, -71.579011",92,2/15/2022,1
+1089,"Burbank - North Third St, CA","501 N 3rd St, Top Parking Level",Burbank,CA,91502,USA,20,150.0,"34.18487, -118.311672",190,9/14/2017,1
+1090,"West Lake Hills, TX",701 S Capital of Texas Hwy,West Lake Hills,TX,78746,USA,8,250.0,"30.289722, -97.827417",265,2022-12-03 00:00:00,1
+1093,"Springfield - Cleveland Place, NJ",697 Morris Tpke,Springfield,NJ,7081,USA,8,250.0,"40.717706, -74.329462",53,7/30/2020,1
+1095,"Parachute, CO",28 Cardinal Way,Parachute,CO,81635,USA,12,250.0,"39.45242, -108.04582",1549,2022-01-10 00:00:00,1
+1098,"Rockingham, NC",1305 E Broad Ave,Rockingham,NC,27839,USA,12,250.0,"34.921509, -79.74772",81,2021-10-12 00:00:00,1
+1099,"Irvine - Irvine Blvd, CA",4790 Irvine Blvd,Irvine,CA,92620,USA,8,250.0,"33.713119, -117.760834",71,2017-02-07 00:00:00,1
+1102,"Dartford (SC), UK","Unit 3 Capstan Court, Crossways Business Park",Dartford,England,DA2 6SB,United Kingdom,12,250.0,"51.4538, 0.2478",5,1/18/2022,1
+1105,"Easton, PA",100 Trolley Line Dr,Easton,PA,18045,USA,8,250.0,"40.739349, -75.263529",118,2022-04-09 00:00:00,1
+1106,"Brooklyn - Brooklyn Museum, NY",878 Washington Ave,Brooklyn,NY,11225,USA,10,72.0,"40.670085, -73.962826",45,9/29/2018,1
+1108,"Melissa, TX",1550 Central Expy,Melissa,TX,75454,USA,8,250.0,"33.270374, -96.592973",196,12/15/2022,1
+1109,"Garden City, NY",630 Old Country Rd,Garden City,NY,11530,USA,12,250.0,"40.7416044, -73.6129391",27,2021-04-11 00:00:00,1
+1110,"Lacey, WA",655 Sleater Kinney Rd SE,Lacey,WA,98503,USA,12,250.0,"47.0427557461906, -122.836407423019",64,10/30/2020,1
+1111,"Athens, GA",1791 Oconee Connector,Athens,GA,30606,USA,10,150.0,"33.916675, -83.452965",224,5/18/2018,1
+1113,"Houston - Louetta Rd, TX",10850 Louetta Rd,Houston,TX,77070,USA,14,250.0,"29.997117, -95.575736",40,2023-02-02 00:00:00,1
+1114,"Shanghai - Jiadi Center, China","Underground Parking Lot, No. 968, Beijing West Road, Jing'an District",Shanghai,Shanghai,,China,28,120.0,"31.23774, 121.4629",10,1/22/2021,1
+1116,"Leesburg, VA",1602 Village Market Blvd SE Suite 215,Leesburg,VA,20175,USA,10,72.0,"39.089677, -77.526324",77,7/19/2019,1
+1123,"Commerce, CA",100 Citadel Dr,Commerce,CA,90040,USA,20,250.0,"34.006382, -118.148878",48,7/13/2021,1
+1124,"London - Romford, UK","The Liberty Shopping Centre, Western Road",Romford,England,RM1 3JT,United Kingdom,12,250.0,"51.57799, 0.18502",19,2022-11-02 00:00:00,1
+1132,"Shenandoah, TX",10973 I-45,Shenandoah,TX,77385,USA,8,250.0,"30.188746, -95.452171",43,2022-04-11 00:00:00,1
+1133,"Auxerre, France",Route national 6 - Lieu dit,Appoigny,Bourgogne-Franche-Comté,89380,France,8,150.0,"47.85183, 3.542802",99,2014-04-07 00:00:00,1
+1138,"Sallent, Spain","C-16, km 59",Sallent,Catalonia,8650,Spain,16,250.0,"41.789777, 1.897887",270,5/24/2017,1
+1139,"Shanghai - Zhonghai Huanyuhui, China","202-213, Block E, 3rd Floor (B3) of Zhonghai Huanyuhui, Lane 838, South Huangpi Rd",Shanghai,Shanghai,,China,10,120.0,"31.217544, 121.483284",12,1/22/2021,1
+1142,"Clinton Corners, NY",2300 Salt Point Tpke,Clinton Corners,NY,12514,USA,8,150.0,"41.825464, -73.770719",87,1/17/2018,1
+1143,"Beijing - International Finance Center, China","B2 Floor, No. 87 West Third Ring North Road, Haidian District",Beijing,Beijing,,China,9,250.0,"39.9418, 116.3159",58,1/22/2021,1
+1144,"Harrisonburg, VA",533 University Blvd,Harrisonburg,VA,22801,USA,8,250.0,"38.429826, -78.856029",432,5/28/2021,1
+1145,"Le Mans, France","Centre Commercial Auchan Le Mans, ZAC du Moulin aux Moines",La Chapelle St Aubin,Pays de la Loire,72650,France,8,,"48.041833, 0.175342",0,4/17/2015,1
+1146,"Rossford, OH",10055 US-20,Rossford,OH,43460,USA,12,250.0,"41.546791, -83.590402",194,12/18/2015,1
+1149,"Shanghai - Seven Baby Dragon City, China","B2, Underground Parking Lot No. 3299, Caobao Road, Minhang District, Shanghai",Shanghai,Shanghai,,China,9,250.0,"31.15851563, 121.3550086",4,9/20/2022,1
+1153,"Roma - Urban, Italy","Viale di Valle Aurelia, Centro Commerciale Aura",Roma,,167,Italy,8,250.0,"41.902144, 12.438294",32,5/23/2023,1
+1154,"Veedersburg, IN",1020 E Second St,Veedersburg,IN,47987,USA,8,250.0,"40.11273, -87.248021",189,11/13/2021,1
+1155,"Sweetwater, TX",300 SE Georgia Ave,Sweetwater,TX,79556,USA,8,150.0,"32.450591, -100.392455",660,8/19/2016,1
+1160,"Woringen, Germany",Bahnhofstraße 12,Woringen,Bavaria,87789,Germany,16,250.0,"47.923423, 10.208561",632,2022-08-02 00:00:00,1
+1163,"Superior, CO",2 S Marshall Rd,Superior,CO,80027,USA,16,250.0,"39.9548017, -105.1646291",1669,2020-02-10 00:00:00,1
+1165,"Las Vegas - S Rampart Blvd, NV",Alta Drive,Las Vegas,NV,89145,USA,12,250.0,"36.1680334, -115.2848652",813,2023-04-02 00:00:00,1
+1168,"Chowchilla, CA",1225 East Robertson Blvd,Chowchilla,CA,93610,USA,12,250.0,"37.126287, -120.247428",75,4/27/2023,1
+1171,"Santa Clarita - Magic Mountain Pkwy, CA",24235 Magic Mountain Pkwy,Santa Clarita,CA,91355,USA,16,250.0,"34.41895, -118.559089",344,12/18/2015,1
+1174,"Macon - Tom Hill Sr Rd, GA",265 Tom Hill Sr Rd,Macon,GA,31210,USA,10,150.0,"32.897259, -83.689432",113,12/23/2018,1
+1175,"Nanjing - Jiulong Lake Headquarter Park, China",19 Suyuan Avenue,Nanjing,Jiangsu,210000,China,8,120.0,"31.9134525, 118.81133155",8,2018-11-08 00:00:00,1
+1176,"Sugar Land, TX",4989 Sweetwater Blvd,Sugar Land,TX,77479,USA,12,250.0,"29.586968, -95.634899",22,12/18/2015,1
+1177,"Lincoln, NB",415 Nevers Rd,Waasis,NB,E3B 9E1,Canada,8,150.0,"45.851688, -66.560635",23,12/22/2018,1
+1178,"Fairfax, VA",11900 Palace Way,Fairfax,VA,22030,USA,12,250.0,"38.859305, -77.357542",132,5/26/2022,1
+1179,"Thornton, NH",Clubhouse Lane,Thornton,NH,3285,USA,8,250.0,"43.870733, -71.652514",203,2017-03-03 00:00:00,1
+1182,"Cache Creek, BC",1270 Stage Rd,Cache Creek,BC,V0K 1H0,Canada,8,250.0,"50.810979, -121.324945",468,2021-10-09 00:00:00,1
+1190,"Montemor-o-Novo, Portugal","L´AND Vineyards, Montemor-o-Novo",Montemor-o-Novo,Alentejo,7050-031,Portugal,8,150.0,"38.645753, -8.247265",188,2018-05-01 00:00:00,1
+1191,"Ballacolla, Ireland","Topaz Service Station Junction 3, M8",Ballacolla,Leinster,,Ireland,8,150.0,"52.86704, -7.481818",92,4/26/2017,1
+1192,"Haymarket, VA",15315 Washington St,Haymarket,VA,20169,USA,8,120.0,"38.815129, -77.642614",112,12/19/2018,1
+1193,"Pomona, CA",90 Rio Rancho Rd,Pomona,CA,91766,USA,12,250.0,"34.027034, -117.762195",246,2017-03-03 00:00:00,1
+1194,"Mebane, NC",1237 Mebane Oaks Rd,Mebane,NC,27302,USA,8,250.0,"36.070176, -79.270532",202,1/27/2021,1
+1198,"Edegem, Belgium",Kattenbroek 1,Edegem,Antwerp,2650,Belgium,18,150.0,"51.151, 4.43252",11,4/18/2019,1
+1199,"Orlando - Universal Blvd, FL",6000 Universal Blvd,Orlando,FL,32819,USA,12,250.0,"28.474481, -81.46149",32,,1
+1201,"Beijing - Longhu Xingyuehui, China","Floor B1, Longhu Xingyuehui Underground Parking Lot, No. 208 Yiheyuan Road, Haidian District",Beijing,Beijing,,China,8,120.0,"40.004261, 116.297193",48,1/22/2021,1
+1206,"Salamanca, NY",777 Seneca Allegany Blvd,Salamanca,NY,14779,USA,8,120.0,"42.153067, -78.747726",429,1/31/2019,1
+1212,"irovnica, Slovenia",Moste 101,irovnica,Upper Carniola,4274,Slovenia,8,250.0,"46.40438283, 14.1317094",545,5/26/2022,1
+1214,"Madison, FL",3907 Southwest SR 14,Madison,FL,32340,USA,8,250.0,"30.43387, -83.4535",58,12/31/2021,1
+1216,"San Bernardino, CA",400 Inland Center Dr,San Bernardino,CA,92408,USA,14,72.0,"34.08407, -117.299314",304,2018-08-06 00:00:00,1
+1219,"Molde, Norway","Fannestrandvegen 70, behind Circle K station",Molde,Møre og Romsdal,6416,Norway,12,250.0,"62.738882, 7.19841",3,3/30/2021,1
+1220,"San Jose - East Capitol Expressway, CA",3096 Tuers Rd,San Jose,CA,95121,USA,20,250.0,"37.300551, -121.825198",48,8/29/2020,1
+1222,"Ankara, Turkey","2 Gazi, Konya Devlet Yolu",Alt?nda?/Ankara,,6560,Turkey,8,250.0,"39.949623, 32.832834",843,2023-04-04 00:00:00,1
+1223,"Manchester, NH",1111 South Willow St,Manchester,NH,3103,USA,8,250.0,"42.961287, -71.439058",79,4/17/2023,1
+1224,"Woodstock, NB",198 Beardsley Rd,Woodstock,NB,E7M 3Z7,Canada,8,150.0,"46.122972, -67.604998",122,2019-09-10 00:00:00,1
+1226,"Shaoxing - Keqiao Minghua Automobile, China","2689 Jinkeqiao Avenue, Keqiao District, Shaoxing City, Zhejiang Province",Shaoxing,Zhejiang,,China,10,120.0,"30.11973616, 120.5170189",20,1/22/2021,1
+1227,"Calgary - 130 Ave SE, AB",4705 130 Ave SE,Calgary,AB,T2Z 4J2,Canada,8,250.0,"50.930449, -113.966875",1038,2017-03-03 00:00:00,1
+1228,"Schweitenkirchen, Germany",Robert-Koch-Straße 1,Schweitenkirchen,Bavaria,85301,Germany,8,150.0,"48.510724, 11.58227",511,1/20/2015,1
+1232,"Louisville - Towne Center Drive, KY",4100 Towne Center Dr,Louisville,KY,40241,USA,8,250.0,"38.299, -85.556056",211,2020-01-07 00:00:00,1
+1233,"Hartberg, Austria",Im Hatric,Hartberg,,8230,Austria,12,250.0,"47.28129457592717, 15.9937353755356",331,2017-02-05 00:00:00,1
+1235,"Bonn, Germany",Am Bonner Bogen,Bonn,North Rhine-Westphalia,53227,Germany,12,250.0,"50.71866, 7.152266",57,,1
+1236,"Manhattan Beach, CA",3200 N Sepulveda Blvd,Manhattan Beach,CA,90266,USA,24,72.0,"33.901472, -118.393833",37,2018-06-12 00:00:00,1
+1241,"Miskolc, Hungary",Pesti út 9,Miskolc,Northern Hungary,3516,Hungary,8,150.0,"48.058139, 20.799306",111,12/16/2019,1
+1243,"Lebec - Gorman Post Rd, CA",49771 Gorman Post Rd,Gorman,CA,93243,USA,63,250.0,"34.796255, -118.853932",1170,11/30/2021,1
+1245,"Parly 2, France",Le Chesnay,Le Chesnay-Rocquencourt,Île-de-France,78150,France,12,250.0,"48.8270072, 2.1189786",133,2021-09-11 00:00:00,1
+1249,"Enfield, NS",6757 Hwy 2,Enfield,NS,B2T 1C8,Canada,8,120.0,"44.9267179, -63.5363646",20,2019-05-07 00:00:00,1
+1250,"Wallisellen, Switzerland",Neue Winterthurerstrasse 99,Wallisellen,Zurich,8304,Switzerland,20,250.0,"47.407882, 8.598128",433,12/23/2022,1
+1255,"Little Ferry, NJ",260 Bergen Tpke,Little Ferry,NJ,7643,USA,12,250.0,"40.855059, -74.0333262",2,12/16/2022,1
+1259,"Guangzhou - Anhuahui Mall, China",880 Baiyun North Ave,Guangzhou,Guangdong,510000,China,8,120.0,"23.21639027, 113.29620801",24,3/26/2019,1
+1260,"Charlotte - Northlake Centre Pkwy, NC",9717 Northlake Centre Pkwy F,North Charlotte,NC,28216,USA,12,250.0,"35.34726, -80.85921",227,6/25/2021,1
+1261,"Emeryville - Shellmound St, CA",5901 Shellmound St,Emeryville,CA,94608,USA,12,250.0,"37.840449, -122.293936",3,11/20/2020,1
+1263,"Wörrstadt, Germany",Sophie-Opel-Str. 4,Wörrstadt,Rhineland-Palatinate,55286,Germany,8,250.0,"49.839903, 8.143498",228,3/31/2022,1
+1266,"Downey - Stonewood St, CA",251 Stonewood St,Downey,CA,90241,USA,12,72.0,"33.934643, -118.12117",35,6/30/2018,1
+1268,"Böblingen, Germany",Charles-Lindbergh-Platz 1,Böblingen,Baden-Württemberg,71034,Germany,16,250.0,"48.69154, 9.003734",431,2021-01-12 00:00:00,1
+1269,"San Diego - Scripps Poway Pkwy, CA","10555 Scripps Poway Pkwy, CA",San Diego,CA,92131,USA,12,250.0,"32.9362, -117.098848",187,2021-09-11 00:00:00,1
+1270,"Suwanee, GA",3186 Lawrenceville-Suwanee Rd,Suwanee,GA,30024,USA,12,250.0,"34.03393, -84.052624",325,5/27/2023,1
+1271,"Kennebunk - Northbound, ME",Maine Turnpike,Kennebunk,ME,4043,USA,8,150.0,"43.409493, -70.558551",29,6/14/2018,1
+1273,"Vacaville - Browns Valley Pkwy, CA",154 Browns Valley Pkwy,Vacaville,CA,95688,USA,8,250.0,"38.365225, -121.967972",40,12/18/2015,1
+1274,"Emeryville - Christie Ave, CA",5795 Christie Ave,Emeryville,CA,94608,USA,12,250.0,"37.837506, -122.295407",4,3/28/2020,1
+1276,"Ukiah, CA",310 S State St,Ukiah,CA,95482,USA,8,150.0,"39.1481, -123.208604",193,1/13/2016,1
+1277,"Costa Mesa - Hyland Ave, CA",3303 Hyland Ave,Costa Mesa,CA,92626,USA,8,250.0,"33.692874, -117.92514",9,2023-10-04 00:00:00,1
+1279,"Willmar, MN",2201 1st St,Willmar,MN,56201,USA,8,250.0,"45.10196, -95.041742",340,,1
+1283,"La Léchère-les-Bains, France","Chemin des Marronniers, near Les Thermes",La Léchère,Auvergne-Rhône-Alpes,73260,France,8,150.0,"45.51877, 6.482522",440,2019-03-01 00:00:00,1
+1287,"Incline Village, NV",930 Tahoe Blvd,Incline Village,NV,89451,USA,10,150.0,"39.250765, -119.948927",1964,8/30/2019,1
+1288,"Chengdu - Lushan International, China","Area A1(001-046), Basement Floor, Lushan Town Parking Lot, No. 18, Section 2, Lushan Ave",Chengdu,Sichuan,,China,8,120.0,"30.488587, 104.101148",481,1/22/2021,1
+1290,"Moers, Germany","Krefelder Straße 169, by hotel Van der Valk",Moers,North Rhine-Westphalia,47447,Germany,12,150.0,"51.441844, 6.611776",28,8/27/2015,1
+1292,"Irschenberg, Germany",Wendling 14,Irschenberg,Bavaria,83737,Germany,9,250.0,"47.826777, 11.898642",681,8/27/2014,1
+1295,"Beijing - Tongxia AD 99, China","B3 Floor, Underground, No. 99, Yuexiu Road, Haidian District, Beijing",Beijing,Beijing,,China,12,250.0,"40.04796, 116.3373",47,2022-12-09 00:00:00,1
+1302,"San Mateo - Bridgepointe Pkwy, CA",2220 Bridgepointe Pkwy,San Mateo,CA,94404,USA,12,120.0,"37.558546, -122.284614",3,2017-01-11 00:00:00,1
+1305,"Carlton, MN",1785 MN-210,Carlton,MN,55718,USA,8,250.0,"46.664849, -92.477676",349,8/23/2021,1
+1306,"Issaquah, WA",6100 E Lake Sammamish Pkwy SE,Issaquah,WA,98029,USA,8,72.0,"47.548026, -122.040026",23,10/20/2018,1
+1309,"Scarborough, ON",6780 Kingston Rd,Scarborough,ON,M1B 1G8,Canada,8,250.0,"43.798804, -79.147568",117,2023-01-03 00:00:00,1
+1310,"Denison, TX",TX-91,Denison,TX,75020,USA,8,250.0,"33.793806, -96.554709",208,11/24/2021,1
+1313,"Scottsdale - E Shea Blvd, AZ",8740 E Shea Blvd,Scottsdale,AZ,85260,USA,16,250.0,"33.5835, -111.894",419,6/30/2022,1
+1314,"Los Angeles - W Olympic Blvd, CA",11355 W Olympic Blvd,Los Angeles,CA,90064,USA,16,250.0,"34.03818, -118.443301",58,11/19/2022,1
+1315,"San Jose - Saratoga Ave, CA",1320 Saratoga Ave,San Jose,CA,95129,USA,12,250.0,"37.3006, -121.9812",62,11/30/2022,1
+1317,"Paso Robles, CA",2449 Golden Hill Rd,Paso Robles,CA,93446,USA,28,250.0,"35.645482, -120.660047",243,2020-04-09 00:00:00,1
+1319,"Shenzhen - Futian Renxuan Apartment, China","No. 2064, Caitian Road, Futian District, Shenzhen, Guangdong",Shenzhen,Guangdong,,China,16,250.0,"22.53416594, 114.0688057",10,9/22/2022,1
+1321,"Wells, ME",1517 Post Rd,Wells,ME,4090,USA,8,250.0,"43.32076, -70.5806",21,5/26/2023,1
+1322,"Apopka, FL",1615 S Orange Blossom Trail,Apopka,FL,32703,USA,8,250.0,"28.6541, -81.4686",34,4/25/2022,1
+1327,"Houston - W Alabama St, TX",1701 W Alabama St,Houston,TX,77098,USA,8,250.0,"29.736538, -95.402318",15,2022-09-05 00:00:00,1
+1328,"Mammoth Lakes - CRC, CA",437 Old Mammoth Rd,Mammoth Lakes,CA,93546,USA,12,250.0,"37.636186, -118.967973",2393,,1
+1330,"Kriegstetten, Switzerland",Kirchweg,Kriegstetten,Solothurn,4566,Switzerland,12,150.0,"47.175596, 7.598601",453,12/14/2017,1
+1331,"Sedona, AZ",7000 AZ-179,Sedona,AZ,86351,USA,14,72.0,"34.775559, -111.764099",1232,4/23/2018,1
+1332,"Ellwangen - Hotel Montana, Germany",Max-Eyth-Straße 50,Ellwangen,Baden-Württemberg,73479,Germany,8,250.0,"48.959165, 10.173534",512,2020-01-12 00:00:00,1
+1333,"Williamsport, PA",105 Maynard St,Williamsport,PA,17701,USA,8,250.0,"41.2328, -77.019865",160,2/25/2020,1
+1337,"Coralville, IA",1914 8th St,Coralville,IA,52241,USA,8,150.0,"41.680372, -91.591467",205,9/29/2016,1
+1343,"Tonghua - Middle East Xintiandi Park, China","No.298 Jianshe Street, Dongchang District",Tonghua,Jilin,,China,9,250.0,"41.70752, 125.9349",373,1/22/2021,1
+1344,"Vernon, CT",145 Talcottville Rd,Vernon,CT,6066,USA,8,250.0,"41.831054, -72.49581",66,11/30/2021,1
+1347,"Naples - Tarpon Bay Blvd, FL",2415 Tarpon Bay Blvd,Naples,FL,34119,USA,8,250.0,"26.271106, -81.739504",5,2021-08-09 00:00:00,1
+1351,"Tustin - Red Hill Ave, CA",14521 Red Hill Ave,Tustin,CA,92780,USA,12,250.0,"33.727381, -117.821821",28,9/20/2022,1
+1352,"Owen Sound, ON",1555 18th Ave,Owen Sound,ON,N4K 5N7,Canada,8,120.0,"44.573404, -80.912257",225,3/23/2018,1
+1360,"Kingman - W Andy Devine, AZ",120 W Andy Devine Ave,Kingman,AZ,86401,USA,16,250.0,"35.189032, -114.058384",1014,1/22/2022,1
+1361,"Brooksville, FL",31100 Cortez Blvd,Brooksville,FL,34602,USA,12,250.0,"28.522692, -82.229948",29,2022-12-01 00:00:00,1
+1362,"Ribeira de Pena, Portugal",Rua do Complexo Turístico de Lamelas 1,Ribeira de Pena,Norte,4870-110,Portugal,10,150.0,"41.503684, -7.801877",728,6/14/2018,1
+1368,"Salzburg, Austria",Salzachtal Bundesstraße 135,Salzburg,Salzburg,5081,Austria,12,150.0,"47.726937, 13.060702",411,2014-05-09 00:00:00,1
+1372,"Atkins, VA",5558 Lee Hwy,Atkins,VA,34311,USA,8,250.0,"36.86455, -81.433527",699,12/22/2022,1
+1373,"Joplin, MO",5002 S Main St,Joplin,MO,64804,USA,8,250.0,"37.033192, -94.515724",296,2021-01-05 00:00:00,1
+1374,"San Francisco - 16th St, CA",2300 16th St,San Francisco,CA,94103,USA,12,72.0,"37.766033, -122.408981",20,,1
+1375,"Beijing - Changying Longhu Tianjie, China","Area G, Floor B2, Changyingtian Street Shopping Center, Building 1, Changtong No. 1, Courtyard",Beijing,Beijing,,China,12,120.0,"39.930414, 116.606086",29,1/22/2021,1
+1379,"Aalborg, Denmark",Hobrovej 452,Aalborg,Nordjylland,9300,Denmark,16,250.0,"57.004169, 9.871296",6,2017-03-03 00:00:00,1
+1381,"Muskegon, MI",5300 Harvey St,Muskegon,MI,49444,USA,10,150.0,"43.155333, -86.202939",192,2/27/2018,1
+1382,"Lincoln - Groveland Lane, CA",950 Groveland Ln,Lincoln,CA,95648,USA,8,250.0,"38.869969, -121.303187",44,10/15/2020,1
+1384,"Bielefeld, Germany",Beckhausstraße 64,Bielefeld,North Rhine-Westphalia,33611,Germany,11,250.0,"52.03915, 8.54419",104,2023-02-06 00:00:00,1
+1385,"Krokstadelva, Norway",Flisveien 3,Krokstadelva,,3055,Norway,16,250.0,"59.758305, 9.994753",8,10/16/2013,1
+1387,"Pyhtää, Finland",Kotitie 10,Pyhtää,Kymenlaakso,49270,Finland,10,150.0,"60.489054, 26.554835",20,12/21/2017,1
+1388,"Pointe Claire, QC",6815 Route Canadienne,Pointe Claire,QC,H9R 1C4,Canada,20,150.0,"45.464212, -73.828203",50,6/30/2018,1
+1392,"Mikkeli, Finland",Tullikatu 2,Mikkeli,South Savo,50100,Finland,8,250.0,"61.688649, 27.280678",78,7/29/2022,1
+1393,"Langkampfen, Austria",Schönwörthstraße 99,Langkampfen,Tyrol,6336,Austria,27,250.0,"47.534556, 12.09294",492,2019-07-05 00:00:00,1
+1395,"New Braunfels, TX",2760 N IH 35,New Braunfels,TX,78130,USA,24,250.0,"29.726598, -98.078702",208,5/31/2022,1
+1401,"New Port Richey, FL",4026 US-19,New Port Richey,FL,34652,USA,8,250.0,"28.218029, -82.736177",10,12/29/2022,1
+1403,"Cavaglià, Italy","Via Santhià, 75, Cavaglià BI",Cavaglià,Piedmont,13881,Italy,8,150.0,"45.38967, 8.128911",221,2016-05-02 00:00:00,1
+1404,"Boardman, OR",101 Olson Rd SE,Boardman,OR,97818,USA,8,250.0,"45.841463, -119.684207",93,2022-10-06 00:00:00,1
+1406,"Söderhamn, Sweden",Stickvägen 3,Söderhamn,Hälsingland,826 40,Sweden,20,250.0,"61.294906, 17.021147",20,1/19/2022,1
+1412,"Shenzhen - Shekou China Merchants Plaza, China",1166 Wanghai Road,Shenzhen,Guangdong,,China,10,120.0,"22.48140966, 113.91614193",0,8/16/2017,1
+1413,"Coquitlam - United Blvd, BC",1450 United Blvd,Coquitlam,BC,V3K 6Y2,Canada,16,250.0,"49.228165, -122.847492",10,2017-02-07 00:00:00,1
+1414,"Milpitas - S Abbott Ave, CA",333 S Abbott Ave,Milpitas,CA,95035,USA,12,250.0,"37.42537, -121.914559",7,2017-03-03 00:00:00,1
+1415,"Vado Ligure, Italy",via Piave 114,Vado Ligure,Liguria,17047,Italy,12,250.0,"44.265341, 8.425215",17,2022-04-07 00:00:00,1
+1416,"Hickory, NC",2191 13th Ave Dr SE,Hickory,NC,28602,USA,8,150.0,"35.706189, -81.294768",296,2018-04-04 00:00:00,1
+1417,"Aire de Cambarette, France",Aire de Cambarette Nord A8,Brignoles,Provence-Alpes-Côte d'Azur,83170,France,10,150.0,"43.424125, 5.989588",307,7/20/2019,1
+1419,"Aichstetten, Germany",Am Waizenhof 12 (Autohof),Aichstetten,Baden-Württemberg,88317,Germany,8,130.0,"47.88036, 10.040488",630,12/14/2013,1
+1420,"Grenada, MS",2030 Sunset Dr,Grenada,MS,38901,USA,8,150.0,"33.787384, -89.849614",87,2017-08-07 00:00:00,1
+1423,"Hoorn, Netherlands","Hotel Van der Valk Hotel Hoorn, Westfriese Parkweg 1,",Hoorn,North Holland,1625 MA,Netherlands,12,150.0,"52.650769, 5.038917",-2,2017-03-03 00:00:00,1
+1425,"Buttonwillow, CA",20673 Tracy Ave,Buttonwillow,CA,93206,USA,10,150.0,"35.400105, -119.397796",90,1/29/2016,1
+1426,"Evanston, IL",1800 Maple Ave,Evanston,IL,60201,USA,12,250.0,"42.050353, -87.685491",184,1/21/2022,1
+1427,"Olympian City, Hong Kong",Olympian City One 11 Hoi Fai Rd,Hong Kong,Hong Kong,,China,7,250.0,"22.32005, 114.158158",19,6/30/2015,1
+1430,"Grimsby, ON",4 Windward Dr,Grimsby,ON,L3M 4E8,Canada,8,120.0,"43.209814, -79.601404",82,5/13/2016,1
+1431,"Amesbury, UK",Solstice Park Avenue,Salisbury,England,SP4 7SQ,United Kingdom,16,250.0,"51.1771, -1.7564",89,9/29/2020,1
+1432,"Edison - 1003 US-1, NJ",1003 US-1,Edison,NJ,8817,USA,16,250.0,"40.518056, -74.37238",29,,1
+1433,"Tigard, OR",9585 SW Washington Square Rd,Tigard,OR,97223,USA,10,72.0,"45.451608, -122.782599",71,2018-07-05 00:00:00,1
+1434,"City of Industry - Gale Ave, CA",18558 Gale Ave,City of Industry,CA,91748,USA,20,250.0,"33.994605, -117.899677",135,2021-03-07 00:00:00,1
+1435,"North Augusta, SC",1014 Edgefield Rd,North Augusta,SC,29860,USA,8,250.0,"33.569471, -81.938767",154,2014-10-01 00:00:00,1
+1436,"San Diego - A Street, CA",1350 6th Ave,San Diego,CA,92101,USA,16,72.0,"32.719384, -117.159567",28,6/27/2018,1
+1441,"Guarromán, Spain","salida 288, Polígono Industrial de Guadiel",Guarromán,Andalusia,23210,Spain,10,150.0,"38.143021, -3.722848",357,12/30/2017,1
+1444,"Tampa, FL",2502 N 50th St,Tampa,FL,33619,USA,8,150.0,"27.965757, -82.402577",12,2/24/2018,1
+1446,"Kassel, Germany","Obere Königsstraße 31, level 5",Kassel,Hesse,34117,Germany,12,250.0,"51.313688, 9.493689",185,12/16/2021,1
+1447,"Los Altos, CA",4800 El Camino Real,Los Altos,CA,94022,USA,16,72.0,"37.398894, -122.110682",24,2020-07-08 00:00:00,1
+1448,"Alturas, CA",1200 W 12th St,Alturas,CA,96101,USA,8,250.0,"41.495424, -120.55978",1335,5/22/2021,1
+1449,"Umeå, Sweden","Marknadsgatan 19, By MAX burger",Umeå,Västerbotten,904 21,Sweden,12,150.0,"63.811159, 20.250153",2,2016-05-10 00:00:00,1
+1452,"Rauenberg, Germany",Hohenaspen 40/1,Rauenberg,Baden-Württemberg,69231,Germany,12,150.0,"49.273806, 8.695444",134,1/17/2020,1
+1454,"Qingdao - Haiyi Sailing Hotel, China","No. 1 Donghai West Road, Shinan District, Qingdao",Qingdao,Shandong,,China,9,250.0,"36.05586, 120.3682",6,2022-12-09 00:00:00,1
+1455,"Shanghai - Bailian Jiading Shopping Center, China","3172 Chengliu Middle Road, Jiading District",Shanghai,Shanghai,,China,10,120.0,"31.38649276, 121.2784261",3,1/22/2021,1
+1456,"Barberino di Mugello, Italy","Via Antonia Meucci, Designer Outlet Barberino",Barberino di Mugello,,50031,Italy,12,250.0,"43.984139, 11.215834",271,5/25/2023,1
+1457,"Shanghai - Songjiang Juniuxiu Park, China","Juniu Xiuchang Store, No. 688, Shihui Road, Songjiang District, Shanghai",Shanghai,Shanghai,,China,9,250.0,"31.04848235, 121.243959",4,5/23/2023,1
+1460,"Aire des Portes d'Angers, France",Aire des Portes d'Angers,Saint-Sylvain-d'Anjou,Pays de la Loire,49480,France,12,250.0,"47.49886598483882, -0.4914664827243",27,6/25/2021,1
+1464,"Canoe Creek, FL",Mile Post 229 Florida Turnpike,Canoe Creek,FL,34760,USA,8,250.0,"28.094603, -81.27413",25,2022-08-01 00:00:00,1
+1467,"Sälen, Sweden",5 Hemfjällsvägen,Sälen,Dalarna,780 67,Sweden,8,250.0,"61.163869, 13.203128",555,2/19/2021,1
+1468,"Orlando - N Alafaya Trail, FL",435 N Alafaya Trail,Orlando,FL,32828,USA,14,120.0,"28.555278, -81.198944",26,2/19/2019,1
+1469,"Kennewick, WA",2811 W 10th Ave,Kennewick,WA,99336,USA,8,150.0,"46.198085, -119.162734",167,2015-04-09 00:00:00,1
+1470,"Fairfield - Pittman Rd, CA",190 Pittman Rd,Fairfield,CA,94534,USA,8,250.0,"38.221335, -122.127115",6,,1
+1472,"Mount Vernon - S 42nd St, IL",1409 S 42nd St,Mt. Vernon,IL,62864,USA,8,250.0,"38.300369, -88.942472",152,11/30/2021,1
+1475,"Glen Allen, VA",9860 Brook Rd,Glen Allen,VA,23059,USA,20,150.0,"37.669832, -77.461419",49,10/24/2013,1
+1477,"Brugge, Belgium",Koning Albert I-laan 242,Brugge,West Flanders,8200,Belgium,14,250.0,"51.16997, 3.19666",4,9/28/2018,1
+1480,"Boise - N Orchard St, ID",851 N Orchard St,Boise,ID,83706,USA,8,250.0,"43.612237, -116.244471",830,2017-03-03 00:00:00,1
+1481,"Nørre Alslev, Denmark",Cargovej 3,Nørre Alslev,Sjælland,4840,Denmark,8,125.0,"54.899872, 11.896921",21,6/27/2015,1
+1482,"Burbank - N San Fernando Blvd, CA",1009 N San Fernando Blvd,Burbank,CA,91504,USA,8,250.0,"34.187565, -118.318197",185,10/14/2022,1
+1483,"Newark, CA",3100 Newpark Mall,Newark,CA,94560,USA,16,72.0,"37.525905, -122.006624",9,9/19/2019,1
+1491,"Kongens Lyngby, Denmark",Gasværksvej 6-8,Kongens Lyngby,Hovedstaden,2800,Denmark,12,250.0,"55.771271, 12.504473",23,,1
+1493,"Carlisle, PA",1720 Harrisburg Pike,Carlisle,PA,17105,USA,8,150.0,"40.233206, -77.119185",186,9/30/2017,1
+1494,"Stockton, CA",2323 Grand Canal Blvd,Stockton,CA,95207,USA,12,250.0,"37.984978, -121.335924",3,11/13/2020,1
+1496,"Sintanjin, South Korea","490 Sintanjin-ro, Daejeon",Daejeon,Daejeon,34335,South Korea,12,250.0,"36.423696, 127.419877",61,2019-02-04 00:00:00,1
+1497,"Valence, France","217 Avenue de Provence, Novotel Valence Sud",Valence,Auvergne-Rhône-Alpes,26000,France,8,150.0,"44.918953, 4.878081",106,12/23/2015,1
+1498,"Hood River - Anchor Way, OR",501 Portway Ave,Hood River,OR,97031,USA,16,250.0,"45.714111, -121.515793",29,1/20/2023,1
+1503,"Niagara Falls, ON",3770 Montrose Rd,Niagara Falls,ON,L2H 3C8,Canada,12,250.0,"43.116772, -79.124184",191,2020-03-04 00:00:00,1
+1504,"Toulouse, France","By Eurocentre Hôtel, Avenue de Saint Guillan",Toulouse,Occitanie,31620,France,8,150.0,"43.769334, 1.361378",113,12/18/2014,1
+1505,"Alameda - Marina Village Pkwy, CA",1201 Marina Village Pkwy,Alameda,CA,94501,USA,12,250.0,"37.785415, -122.272415",3,,1
+1506,"Washington - Wisconsin Ave NW, DC",1855 Wisconsin Ave NW,Washington,DC,20007,USA,8,72.0,"38.91655, -77.066175",51,2020-06-03 00:00:00,1
+1507,"Montpellier, France",2 place de Lisbonne,Montpellier,Occitanie,34000,France,16,250.0,"43.6024666, 3.9204733",25,6/30/2022,1
+1511,"Evanston, WY",101 Wasatch Rd,Evanston,WY,82930,USA,8,150.0,"41.263157, -110.985309",2080,7/18/2017,1
+1512,"Dublin - Amador Plaza, CA",6701 Amador Plaza Rd,Dublin,CA,94568,USA,16,150.0,"37.703183, -121.925327",103,10/17/2015,1
+1514,"Lady Lake, FL",116 N. Highway 27/441,Lady Lake,FL,32159,USA,8,250.0,"28.917179, -81.923031",24,2020-09-09 00:00:00,1
+1516,"Zhuhai - Jinwan Huafa Shangdu, China","South Gate of Jinwan Huafa Commercial Capital, Jinwan District, Zhuhai City, Guangdong",Zhuhai,Guangdong,,China,9,250.0,"22.11284244, 113.3625716",-2,9/22/2022,1
+1517,"Changsha - Huazhi Biotechnology Park, China","Yuelushan Seed Industry Innovation Center, Heping Road, Furong District, Changsha",Changsha,Hunan,,China,12,250.0,"28.191977, 113.095863",43,9/14/2022,1
+1518,"Baltimore - McHenry Row, MD",1641 Whetstone Way,Baltimore,MD,21230,USA,8,72.0,"39.268454, -76.59925",6,10/25/2018,1
+1519,"Palmdale - 10th St W, CA",39626 10th St W,Palmdale,CA,93551,USA,24,250.0,"34.602239, -118.146111",813,2023-07-02 00:00:00,1
+1528,"Guarda, Portugal",Travessa das Covas 31,Guarda,Centro,6300-388,Portugal,8,150.0,"40.559107, -7.230415",842,2018-12-05 00:00:00,1
+1532,"Red Bluff, CA",94 Belle Mill Rd,Red Bluff,CA,96080,USA,8,250.0,"40.182152, -122.227452",82,11/26/2019,1
+1533,"London - Westfield White City, UK",Westfield Shopping Town,London,England,W12 7GD,United Kingdom,24,150.0,"51.507888, -0.221972",9,10/16/2014,1
+1539,"Orlando - 7826 W Sand Lake Rd, FL",7826 W Sand Lake Rd,Orlando,FL,32819,USA,12,250.0,"28.449537, -81.490195",33,2022-06-06 00:00:00,1
+1544,"Woodbridge - Daniel Stuart Square, VA",2051 Daniel Stuart Square,Woodbridge,VA,22191,USA,8,250.0,"38.633037, -77.276321",26,5/24/2017,1
+1545,"Gainesville, TX",1200 I-35 N Frontage Rd,Gainesville,TX,76240,USA,8,250.0,"33.635646, -97.154848",225,10/17/2014,1
+1547,"Clare, MI",604 North McEwan,Clare,MI,48617,USA,8,150.0,"43.820359, -84.76675",255,5/19/2019,1
+1548,"Cranford, NJ",370 N Ave E,Cranford,NJ,7016,USA,12,250.0,"40.658207, -74.287872",24,6/22/2022,1
+1550,"Reichertshofen, Germany",Am Auer Bach 1,Reichertshofen,Bavaria,85084,Germany,20,250.0,"48.645235, 11.520787",401,3/31/2022,1
+1552,"Metter, GA",1118 S Lewis St,Metter,GA,30349,USA,8,250.0,"32.378566, -82.062539",58,11/27/2019,1
+1554,"Shenyang - Xinglong Grand Outlet, China","Xinglong Grand Outlet, No. 5 Yingpan North Street",Shenyang,Liaoning,,China,8,120.0,"41.747769, 123.465595",44,1/22/2021,1
+1557,"Brentwood - Old Hickory Blvd, TN",780 Old Hickory Blvd,Brentwood,TN,37027,USA,12,250.0,"36.042377, -86.777844",214,2020-06-09 00:00:00,1
+1562,"Fort Stockton, TX",2571 N Front St,Fort Stockton,TX,79735,USA,8,150.0,"30.905492, -102.88453",901,10/15/2018,1
+1571,"Beijing - Lizetian Street, China","B3 Floor J, No. 300 Lize Road, Fengtai District, Beijing",Beijing,Beijing,,China,8,150.0,"39.86702, 116.33408",45,2022-12-09 00:00:00,1
+1572,"Redding - Hilltop Dr, CA",1900 Hilltop Dr,Redding,CA,96002,USA,44,250.0,"40.578643, -122.359162",176,10/17/2014,1
+1573,"Tordesillas, Spain","Hotel Resort El Montico, Ctra. Burgos Salamanca, KM. 147",Tordesillas,Castile and León,47100,Spain,8,150.0,"41.516125, -4.943023",692,8/20/2017,1
+1574,"Marin City, CA",190 Donahue St,Sausalito,CA,94965,USA,16,72.0,"37.872835, -122.510499",3,2020-03-09 00:00:00,1
+1575,"Bissendorf, Germany",Zum Eistruper Feld 1,Bissendorf,Lower Saxony,49143,Germany,16,250.0,"52.238354, 8.162975",80,3/24/2022,1
+1581,"Wilson, NC",4940 Raleigh Rd Pkwy W,Wilson,NC,27896,USA,20,250.0,"35.763439, -77.999889",46,2017-08-06 00:00:00,1
+1582,"Rocky Hill, CT",632 Cromwell Ave,Rocky Hill,CT,6067,USA,12,250.0,"41.653283, -72.679252",54,2022-09-09 00:00:00,1
+1586,"Paso Robles - Riverside Ave, CA",1111 Riverside Ave,Paso Robles,CA,93446,USA,8,250.0,"35.626263, -120.68703",217,,1
+1588,"Nephi, UT",2100 S Main St,Nephi,UT,84648,USA,8,150.0,"39.678083, -111.840906",1555,2014-11-06 00:00:00,1
+1595,"Beijing - Daxing, Gemdale Weixin International Center, China","Gemdale Weixin International Center, Guangyang Street and Chunhe Road, Daxing District, Beijing",Beijing,Beijing,,China,8,150.0,"39.77145924, 116.3540897",41,9/22/2022,1
+1596,"Emsbüren, Germany",Carl-von-Linne-Straße 1,Emsbüren,Lower Saxony,48488,Germany,24,250.0,"52.359241, 7.264215",32,2014-04-07 00:00:00,1
+1599,"Remouchamps, Belgium",Square Phillipe Gilbert 1,Remouchamps,Liège,4920,Belgium,10,150.0,"50.48391, 5.70041",136,2/15/2020,1
+1600,"Tucson - E Skyline Dr, AZ",2905 E Skyline Dr,Tucson,AZ,85718,USA,10,72.0,"32.32555, -110.930936",842,4/29/2018,1
+1601,"Conshohocken, PA",400 Alan Wood Rd,Conshohocken,PA,19428,USA,12,250.0,"40.094384, -75.308501",292,5/26/2023,1
+1608,"Utica, NY",50 Auert Ave,Utica,NY,13501,USA,8,150.0,"43.113878, -75.206857",128,2015-11-02 00:00:00,1
+1611,"Aksdal South, Norway",Behind Shell station at Aksdal center,Aksdal,Rogaland,5570,Norway,18,250.0,"59.421338, 5.443543",40,2020-03-09 00:00:00,1
+1614,"Winston-Salem, NC",276 Harvey St,Winston-Salem,NC,27103,USA,12,250.0,"36.084444, -80.295348",271,10/31/2022,1
+1620,"Hilton Head - William Hilton Pkwy, SC",430 William Hilton Pkwy,Hilton Head Island,SC,29926,USA,8,250.0,"32.21475, -80.703411",4,5/26/2022,1
+1622,"Reston - Sunset Hills Rd, VA",12110 Sunset Hills Rd,Reston,VA,20190,USA,12,250.0,"38.956, -77.3654",113,,1
+1626,"Yeonsu - Dongchun, South Korea","825-25, Aam-daero, Yeonsu-gu",Incheon,Incheon,,South Korea,8,250.0,"37.3959939, 126.663656",17,2021-01-10 00:00:00,1
+1627,"White Marsh, MD",5361 Nottingham Dr.,White Marsh,MD,21236,USA,8,250.0,"39.373985, -76.443133",22,6/26/2020,1
+1630,"Beijing - Country Garden Jiuhua Villa, China","District 16, Jiuhua Resort, No.75 Shunsha Road, Changping District",Beijing,Beijing,,China,8,120.0,"40.1895, 116.4203",41,1/22/2021,1
+1631,"Elizabethtown, KY",809 E Dixie Ave,Elizabethtown,KY,42701,USA,8,250.0,"37.671622, -85.845453",235,2021-10-12 00:00:00,1
+1634,"Flagstaff - Hwy 89, AZ",5650 US-89,Flagstaff,AZ,86004,USA,24,250.0,"35.2328, -111.5756",2101,2/21/2023,1
+1638,"Cherry Hill - Haddonfield Rd, NJ",904 Haddonfield Rd,Cherry Hill,NJ,8002,USA,8,250.0,"39.925886, -75.032423",9,5/21/2021,1
+1639,"Hogstorp, Sweden",Hogstorp 249,Hogstorp,Bohuslän,45195,Sweden,16,250.0,"58.393159, 11.758273",60,2021-12-07 00:00:00,1
+1641,"Visalia, CA",6603 Betty Dr,Visalia,CA,93291,USA,19,250.0,"36.350804, -119.4247",86,10/15/2022,1
+1644,"San Diego - Kearny Mesa Hazard Village, CA",9332 Clairemont Mesa Blvd,San Diego,CA,92111,USA,12,250.0,"32.832252, -117.128472",130,12/18/2015,1
+1645,"Syracuse - Destiny USA Dr, NY",1 Destiny USA Dr,Syracuse,NY,13204,USA,12,250.0,"43.0674, -76.1753",114,6/30/2022,1
+1646,"Annapolis, MD",217 Harker Place,Annapolis,MD,21401,USA,8,150.0,"38.980071, -76.540498",21,3/20/2014,1
+1648,"Livingston, TX",1155 E Church St,Livingston,TX,77351,USA,8,250.0,"30.711715, -94.921292",53,7/25/2013,1
+1651,"Fair Play, SC",272 Herring Rd,Fair Play,SC,29643,USA,12,250.0,"34.504955, -82.965706",237,2021-02-07 00:00:00,1
+1653,"Joplin - Range Line Rd, MO",3615 Range Line Rd,Joplin,MO,64804,USA,8,150.0,"37.047552, -94.473399",314,9/22/2022,1
+1654,"Austin, TX",6406 N Interstate 35 Frontage Rd,Austin,TX,78752,USA,8,150.0,"30.329175, -97.706339",221,11/30/2017,1
+1656,"Fairfield, CA",1350 Travis Blvd,Fairfield,CA,94533,USA,12,150.0,"38.26175, -122.0524",10,2018-06-05 00:00:00,1
+1658,"Boise, ID",1426 S Entertainment Ave,Boise,ID,83709,USA,8,150.0,"43.592292, -116.279467",837,2015-07-08 00:00:00,1
+1659,"Coffs Harbour - 211 Pacific Hwy, NSW",211 Pacific Hwy,Coffs Harbour,NSW,2450,Australia,15,250.0,"-30.30831, 153.102154",2,,1
+1662,"Gaspé, QC",39 Montée de Sandy-Beach,Gaspé,QC,G4X 2A9,Canada,8,250.0,"48.824, -64.473",24,,1
+1663,"Walterboro, SC",2076 Bells Hwy,Walterboro,SC,29488,USA,12,250.0,"32.9333, -80.6925",25,4/19/2022,1
+1667,"Red Oak, TX",200 I- 35 Service Rd,Red Oak,TX,75154,USA,16,250.0,"32.517, -96.8214",179,2022-12-12 00:00:00,1
+1669,"Deventer, Netherlands",Birnieweg 4,Deventer,Overijssel,7418 HH,Netherlands,20,250.0,"52.234207, 6.210881",7,2022-11-03 00:00:00,1
+1673,"Naarden, Netherlands",IJsselmeerweg 3,Naarden,North Holland,1411 AA,Netherlands,32,150.0,"52.30858, 5.141127",2,1/13/2014,1
+1676,"Kingston - Dalton Ave, ON",88 Dalton Ave,Kingston,ON,K7K 6C3,Canada,8,250.0,"44.264946, -76.501804",84,12/23/2021,1
+1677,"Fremont - Thornton Ave, CA",3700 Thornton Ave,Fremont,CA,94536,USA,12,250.0,"37.561924, -122.010274",16,3/20/2014,1
+1679,"Saint-Herblain, France",Parking Place Océane,Saint-Herblain,Pays de la Loire,44800,France,12,250.0,"47.226026, -1.629313",44,7/15/2016,1
+1680,"Great Falls, MT",2301 14th St SW,Great Falls,MT,59404,USA,8,250.0,"47.48295, -111.337681",1023,6/27/2020,1
+1682,"Colfax, NC",3202 Sandy Ridge Rd,Colfax,NC,27235,USA,8,250.0,"36.095012, -79.994674",292,2021-08-04 00:00:00,1
+1683,"Somerville, MA",779 McGrath Hwy,Somerville,MA,2145,USA,8,250.0,"42.390558, -71.086016",4,3/31/2022,1
+1684,"Chengdu - MixC, China","Floor B3, Underground Parking Lot of Mixc City, No. 8 Shuangqing Road, Chenghua District",Chengdu,Sichuan,,China,10,120.0,"30.64974861, 104.1155178",497,1/22/2021,1
+1685,"Tangshan - Dingwang Jinsheng Marriott Hotel, China","No. 18, Weiguo Road, Lubei District, Tangshan City, Hebei",Tangshan,Hebei,,China,9,250.0,"39.630852, 118.164948",30,9/16/2022,1
+1691,"Guangzhou - Poly Clovis Plaza, China","B3, Poly Clovis Zhongjing Building, No. 406, Huasui Road, Tianhe District, Guangzhou City, Guangdong",Guangzhou,Guangdong,,China,12,250.0,"23.12728308, 113.3191633",4,9/22/2022,1
+1692,"Long Beach - Long Beach Blvd, CA",6590 Long Beach Blvd,Long Beach,CA,90805,USA,8,250.0,"33.87396, -118.202413",18,2023-09-05 00:00:00,1
+1693,"Xianning  Xianning Easyhome, China","Cha Yuan Road (intersection with S208), Xian'an District",Xianning,Hubei,,China,9,250.0,"29.8583, 114.3463",50,9/14/2021,1
+1695,"Visalia - #2, CA",6610 Betty Dr,Visalia,CA,93291,USA,20,250.0,"36.353167, -119.426384",86,11/30/2021,1
+1698,"Quebec City - Boulevard des Gradins, QC",5555 Boul. des Gradins,Québec,QC,G2J 1C8,Canada,8,250.0,"46.840259, -71.276797",27,2021-10-12 00:00:00,1
+1699,"Hannover, Germany",Opelstr. 3-5,Isernhagen,Lower Saxony,30916,Germany,20,250.0,"52.423726, 9.833422",57,9/30/2022,1
+1700,"Wuhan - Oceanwide City Plaza, China","Underground Parking Lot, Fanhai City Plaza, Jianghan District",Wuhan,Hubei,,China,21,250.0,"30.6098, 114.262",28,1/22/2021,1
+1705,"Vancouver - NE Fourth Plain Blvd (SC), WA",6916 NE Fourth Plain Blvd,Vancouver,WA,98661,USA,12,250.0,"45.645661, -122.601249",65,1/14/2023,1
+1707,"Portage - George Ade Travel Plaza, IN",Indiana Toll Rd,Portage,IN,46368,USA,8,250.0,"41.5874, -87.2176",187,12/24/2021,1
+1710,"Suzhou - InterContinental, China","Area A, Basement Floor (B1), No. 288, Wangdun Rd, Suzhou Industrial Park",Suzhou,Jiangsu,,China,10,120.0,"31.325766, 120.716628",5,1/22/2021,1
+1711,"Shanghai - Vanke Plaza, China",128 Mingzhu Road,Shanghai,Shanghai,201101,China,10,120.0,"31.15443433, 121.35137657",7,11/28/2018,1
+1712,"Miami - SW 8th St, FL",701 South Miami Ave,Miami,FL,33130,USA,10,72.0,"25.766875, -80.194524",1,2018-01-06 00:00:00,1
+1713,"Shanghai - South Bailian Shopping Center, China",7388 Humin Road,Shanghai,Shanghai,201100,China,10,120.0,"31.13140735, 121.40009915",5,2019-03-04 00:00:00,1
+1718,"Wokingham, UK","Mill Lane, Sindlesham",Wokingham,England,RG41 5DG,United Kingdom,16,150.0,"51.428346, -0.898911",37,9/13/2019,1
+1722,"Lehre-Wendhausen, Germany",In den Lohbalken 1,Lehre-Wendhausen,Lower Saxony,38165,Germany,12,250.0,"52.313139, 10.635067",85,2021-02-12 00:00:00,1
+1723,"Southampton, NY",850 County Road 39,Southampton,NY,11968,USA,8,120.0,"40.891909, -72.426995",14,2016-03-06 00:00:00,1
+1724,"Landquart, Switzerland",Tardisstrasse 93,Landquart,Grisons,7302,Switzerland,20,250.0,"46.965802, 9.552839",522,2023-09-03 00:00:00,1
+1726,"Ringdalskogen, Norway",6 Ringdalskogen,Larvik,Vestfold og Telemark,3270,Norway,20,150.0,"59.112393, 10.108783",89,12/18/2017,1
+1732,"Leira, Norway",Oslovegen 700,Leira i Valdres,Innlandet,2920,Norway,16,250.0,"60.969587, 9.29115",370,11/27/2020,1
+1740,"Rancho Mirage, CA",71800 CA-111,Rancho Mirage,CA,92270,USA,24,72.0,"33.741311, -116.409258",70,9/18/2019,1
+1741,"Mountain View, CA",1401 N Shoreline Blvd,Mountain View,CA,94043,USA,12,150.0,"37.415344, -122.076607",6,2015-10-06 00:00:00,1
+1742,"Beijing - Fangshan Longhu Tianjie, China","Area C, Floor B2, Underground Parking Lot, Longhutian St, Gongchen North St",Beijing,Beijing,,China,8,120.0,"39.751717, 116.147136",49,1/22/2021,1
+1745,"Northwood, OH",2839 Curtice Rd,Northwood,OH,43619,USA,12,250.0,"41.617518, -83.482021",186,8/17/2013,1
+1746,"Orleans, MA",10 Route 6A,Orleans,MA,2653,USA,12,150.0,"41.796653, -69.985961",1,2019-07-12 00:00:00,1
+1747,"Mosjøen North, Norway","Dolstadgata 19, by Uno-X",Mosjøen,Nordland,8663,Norway,10,150.0,"65.841737, 13.187839",0,4/24/2020,1
+1748,"Salinas, CA",1606 North Main St,Salinas,CA,93906,USA,14,150.0,"36.715699, -121.653992",29,10/13/2017,1
+1753,"Encinitas (SC), CA",1302 Encinitas Blvd,Encinitas,CA,92024,USA,8,250.0,"33.046319, -117.262142",79,11/19/2022,1
+1756,"Nottuln, Germany",Beisenbusch 5,Nottuln,Lower Saxony,48301,Germany,16,250.0,"51.911449, 7.398727",74,6/30/2022,1
+1758,"Beijing - Pohang Center, China","B3, Pohang Center, No. 13, Wangjing Dongyuan 4th District, Yuananbei 1st Road, Chaoyang District",Beijing,Beijing,,China,21,250.0,"40.005083, 116.495413",38,1/22/2021,1
+1761,"Bowling Green, KY",1676 Westpark Dr,Bowling Green,KY,42104,USA,8,150.0,"36.955196, -86.438854",162,6/24/2016,1
+1762,"Centralia, WA",1200 Lum Rd,Centralia,WA,98531,USA,20,150.0,"46.729732, -122.977454",56,7/17/2013,1
+1763,"Beijing - Guohai Plaza, China","No. 17 Fuxing Road, Haidian District, Beijing",Beijing,Beijing,,China,12,150.0,"39.90980088, 116.3122829",53,9/22/2022,1
+1766,"Fishers, IN",9 Municipal Dr,Fishers,IN,46038,USA,10,72.0,"39.957683, -86.016131",249,3/17/2018,1
+1768,"Tannersville, PA",1000 Premium Outlets Dr,Tannersville,PA,18372,USA,8,150.0,"41.045431, -75.312244",284,12/14/2015,1
+1772,"Comber, ON",7018 Industrial Dr,Comber,ON,N0P 1J0,Canada,8,150.0,"42.2387885, -82.5508729",182,3/25/2015,1
+1775,"Shanghai - Jiading Darong City, China","Area A, B1 Floor, Darong City, No. 3386, Bao'an Road, Jiading District",Shanghai,Shanghai,,China,12,120.0,"31.336396, 121.286412",6,1/22/2021,1
+1776,"Akureyri, Iceland",Austursíða 2,Akureyri,Northeastern Region,603,Iceland,8,250.0,"65.69773, -18.140122",66,10/13/2021,1
+1778,"Waco, TX",701 Interstate 35,Bellmead,TX,76705,USA,22,250.0,"31.58224, -97.10915",124,2013-07-09 00:00:00,1
+1783,"Alameda, CA",523 South Shore Center,Alameda,CA,94501,USA,12,150.0,"37.756265, -122.249306",3,12/15/2018,1
+1784,"Chestnut Hill, MA",55 Boylston St,Chestnut Hill,MA,2467,USA,8,150.0,"42.322031, -71.172395",52,2020-10-01 00:00:00,1
+1787,"Vierumäki, Finland",Tervalammentie 1,Vierumäki,Päijät-Häme,19110,Finland,8,125.0,"61.111599, 25.928814",144,12/18/2015,1
+1788,"Reading - Katesgrove (SC), UK",160 Basingstoke Road,Reading,England,RG2 0HJ,United Kingdom,12,250.0,"51.43952, -0.96816",48,9/24/2022,1
+1789,"Chatsworth, CA",9183 De Soto Ave,Chatsworth,CA,91311,USA,8,250.0,"34.23802, -118.589407",273,7/26/2016,1
+1791,"Xi'an - Qujiang Yintai Experience Store, China","Area B, Floor B, No. 410, Qujiang Yintai City, No. 410, Yannan 2nd Road, Yanta District",Xi'an,Shaanxi,,China,14,120.0,"34.213224, 108.971182",433,1/22/2021,1
+1793,"Nanjing - Aishangtiandi, China","Underground Parking Lot, Block B, Ai Shang Tiandi, No. 100 Zhongshan Road",Nanjing,Jiangsu,,China,9,250.0,"32.05387, 118.7909",11,1/22/2021,1
+1794,"Hartford - Leibert Rd, CT",195 Leibert Rd,Hartford,CT,6120,USA,12,150.0,"41.788236, -72.65582",7,10/30/2020,1
+1795,"Jacksonville - Chaffee Rd, FL",703 Chaffee Rd S,Jacksonville,FL,32221,USA,8,250.0,"30.307077, -81.847887",21,9/19/2020,1
+1796,"Lithonia, GA",3045 Panola Rd,Lithonia,GA,30038,USA,12,150.0,"33.69893, -84.173181",275,10/17/2019,1
+1797,"Pittsburgh, PA",5550 Centre Ave,Pittsburgh,PA,15232,USA,8,72.0,"40.456432, -79.934125",270,10/21/2020,1
+1801,"Rock Springs, WY",2441 Foothill Blvd,Rock Springs,WY,82901,USA,8,150.0,"41.580815, -109.262137",1904,2017-10-08 00:00:00,1
+1805,"Saitama - Yono, Japan","338-0004 SaitamaHonmachinishi, Chuo-ku5-2-9",Yono,Saitama,,Japan,8,250.0,"35.890806, 139.614944",17,2023-02-06 00:00:00,1
+1808,"Vøringsfossen, Norway",Fossatromma,Vøringsfoss,,5785,Norway,16,250.0,"60.425737, 7.245859",570,2013-03-07 00:00:00,1
+1811,"Fresno - North Riverside Drive, CA",5001 N Riverside Dr,Fresno,CA,93722,USA,12,250.0,"36.832164, -119.908341",91,11/24/2020,1
+1814,"Fort Bragg, CA",101 Boatyard Dr,Fort Bragg,CA,95437,USA,12,250.0,"39.421063, -123.807299",32,5/22/2021,1
+1818,"Beijing - Zhongqi Leiri, China",Mid South 4th Ring Road,Beijing,Beijing,,China,8,120.0,"39.831209, 116.416478",37,2014-10-01 00:00:00,1
+1819,"Foshan - Nanhai Huanyucheng, China","Yingyue Lake Huanyu City, No.6 Shilong South Road, Guicheng Street, Nanhai District",Foshan,Guangdong,,China,8,120.0,"23.03849, 113.1937",6,1/22/2021,1
+1820,"Rhüden, Germany",Am Zainer Berg 2,Rhüden,Lower Saxony,38723,Germany,16,250.0,"51.947228, 10.140842",153,7/17/2014,1
+1824,"Beijing - South Fourth Ring Middle Road Tesla Center, China","No. 20, Middle South Fourth Ring Road, Fengtai District",Beijing,Beijing,,China,8,150.0,"39.836823, 116.4233",39,2022-09-09 00:00:00,1
+1830,"Breezewood, PA",16417 Lincoln Hwy,Breezewood,PA,15533,USA,8,150.0,"39.999842, -78.238697",395,8/25/2017,1
+1832,"Llano, TX",115 E. Main St,Llano,TX,78643,USA,8,250.0,"30.750554, -98.67491",310,2022-07-01 00:00:00,1
+1836,"Tampa - N Dale Mabry Hwy, FL",401 N Dale Mabry Hwy,Tampa,FL,33609,USA,8,250.0,"27.949242, -82.504944",7,3/31/2022,1
+1837,"Newton, MA",6 MA-128,Newton,MA,2462,USA,8,250.0,"42.330663, -71.255062",24,1/25/2023,1
+1839,"Crestview, FL",2670 S Ferdon Blvd,Crestview,FL,32536,USA,8,250.0,"30.733386, -86.566733",69,2/17/2021,1
+1840,"Swedesboro, NJ",1700 Center Square Rd,Swedesboro,NJ,8085,USA,11,250.0,"39.759041, -75.360179",7,2017-08-06 00:00:00,1
+1841,"Hawthorne, CA",1 Rocket Rd,Hawthorne,CA,90250,USA,12,250.0,"33.921068, -118.330054",18,2013-11-12 00:00:00,1
+1844,"Compton, CA",1621 S Alameda St,Compton,CA,90220,USA,12,250.0,"33.8789, -118.2193",18,5/24/2017,1
+1845,"Hermosa Beach, CA",710 16th St,Hermosa Beach,CA,90254,USA,20,250.0,"33.864955, -118.394819",25,2020-10-06 00:00:00,1
+1849,"Fond du Lac, WI",485 N Rolling Meadows Dr,Fond du Lac,WI,54937,USA,12,250.0,"43.791436, -88.485968",234,2017-01-04 00:00:00,1
+1852,"Ludvika, Sweden",Prästgårdsgatan 13,Ludvika,Dalarna,771 32,Sweden,12,250.0,"60.151707, 15.192061",163,2023-07-02 00:00:00,1
+1855,"Ehrenberg, AZ",14320 Frontage Rd N,Ehrenberg,AZ,85334,USA,8,250.0,"33.601666, -114.522376",101,11/27/2019,1
+1856,"Kissimmee - E Irlo Bronson Memorial Hwy, FL",2338 E Irlo Bronson Memorial Hwy,Kissimmee,FL,34744,USA,12,250.0,"28.280288, -81.348103",27,11/30/2021,1
+1859,"Lafayette, IN",4901 Indiana 26,Lafayette,IN,47905,USA,24,250.0,"40.416187, -86.814084",202,2014-10-10 00:00:00,1
+1862,"Kristianstad, Sweden",Jochums väg 18,Kristianstad,Skåne,291 59,Sweden,14,250.0,"56.02474, 14.116383",5,7/26/2016,1
+1865,"Shenzhen - University Culture and Sports Resort Center, China","88 Xinyuan Road, Longgang District",Shenzhen,Guangdong,,China,8,120.0,"22.6492153, 114.216772",71,1/22/2021,1
+1874,"Daly City - Mission St, CA",6955 Mission St,Daly City,CA,94014,USA,12,250.0,"37.696548, -122.463229",96,10/17/2014,1
+1875,"Placerville - Broadway, CA",1184 Broadway,Placerville,CA,95667,USA,12,150.0,"38.730606, -120.788085",578,8/31/2019,1
+1876,"Odense, Denmark","Rosengårdcentret, Ørbækvej 75",Odense,Syddanmark,5220,Denmark,16,250.0,"55.38546, 10.426799",18,2022-09-04 00:00:00,1
+1877,"Penrith - Tebay Southbound, UK",Tebay Services (southbound) Westmorland Place Orton,Orton,England,CA10 3SB,United Kingdom,12,250.0,"54.453104, -2.605743",214,2017-03-10 00:00:00,1
+1881,"Edmonton - Currents Dr NW, AB",6284 Currents Drive NW,Edmonton,AB,T6W 0L8,Canada,12,250.0,"53.436329, -113.610406",685,12/15/2022,1
+1883,"Plano, TX",5725 Legacy Dr,Plano,TX,75024,USA,12,72.0,"33.07868, -96.819506",223,3/31/2018,1
+1884,"Hamburg - Stillhorn, Germany",Stillhorner Weg 40,Hamburg,Hamburg,21109,Germany,12,250.0,"53.479693, 10.024845",4,1/25/2022,1
+1885,"Tinton Falls, NJ",1 Premium Outlets Blvd,Tinton Falls,NJ,7753,USA,8,120.0,"40.226272, -74.093538",33,9/19/2015,1
+1886,"Hardeeville, SC",16319 Whyte Hardee Blvd,Hardeeville,SC,29927,USA,8,250.0,"32.27012485, -81.08084499",8,6/13/2020,1
+1887,"Buena Park - Beach Blvd, CA",6911 Brenner Ave,Buena Park,CA,90621,USA,24,72.0,"33.86044, -117.996347",23,6/17/2020,1
+1890,"Sheboygan, WI","595 Taylor Dr, by Festival Foods",Sheboygan,WI,53081,USA,8,150.0,"43.749912, -87.747073",200,2015-07-10 00:00:00,1
+1893,"Chugiak, AK",22211 Birchwood Loop Rd,Chugiak,AK,99567,USA,8,250.0,"61.403462, -149.46797",96,2022-07-11 00:00:00,1
+1894,"Leinstrand-Klett, Norway",Søravegen 4,Leinstrand,Trøndelag,7083,Norway,18,150.0,"63.325319, 10.305137",32,2015-02-02 00:00:00,1
+1895,"Jecheon, South Korea","Namjecheon IC Service Area 741, Cheongpungho-ro, Geumseong-myeon",Jecheon-si,Chungcheongbuk,,South Korea,8,250.0,"37.072695, 128.191443",173,12/31/2021,1
+1896,"Allentown - Schantz Rd, PA",7572 Schantz Rd,Allentown,PA,18106,USA,12,250.0,"40.57163, -75.616759",135,2022-12-05 00:00:00,1
+1897,"Roseville, MI",30800 Little Mack Ave,Roseville,MI,48066,USA,8,150.0,"42.522048, -82.906756",182,11/23/2017,1
+1899,"Cluj Napoca, Romania",Strada Avram Iancu 500,Flore?ti,Nord-Vest,407280,Romania,8,250.0,"46.753784, 23.532768",362,11/25/2022,1
+1901,"Worcester, MA",75 Quinsigamond Ave,Worcester,MA,1610,USA,8,250.0,"42.247236, -71.80293",136,2017-01-04 00:00:00,1
+1903,"Woodbridge - Minnieville Rd, VA",13355 Minnieville Rd,Woodbridge,VA,22192,USA,8,250.0,"38.659258, -77.300076",85,,1
+1904,"Riviera Beach, FL",4651 Dyer Blvd,Riviera Beach,FL,33407,USA,8,120.0,"26.7781155, -80.1091072",4,1/17/2014,1
+1908,"West Unity - Indian Meadow Service Plaza, OH","Indian Meadow Service Plaza, I-80 West",West Unity,OH,43570,USA,8,250.0,"41.605252, -84.406468",240,5/24/2023,1
+1911,"Chongqing - Halo Shopping Park, China","B2 Floor, Underground Parking Lot, Halo Shopping Park, No. 118 Hucai Road, Yubei District, Chongqing",Chongqing,Chongqing,,China,12,150.0,"29.64952813, 106.5283864",432,9/22/2022,1
+1912,"Tukwila - Strander Blvd, WA",333 Strander Blvd,Tukwila,WA,98188,USA,16,250.0,"47.455273, -122.256631",8,2022-09-11 00:00:00,1
+1914,"Wuxi - Hongyang Home Furnishing, China","B1, No. 55, Xihu Middle Road, Liangxi District, Wuxi City, Jiangsu",Wuxi,Jiangsu,,China,9,250.0,"31.590391, 120.31685",4,9/16/2022,1
+1915,"Wuhan - Kaixin Building, China","Entrance of Ouyada Home, Jinqiao Avenue, Houhu Street",Wuhan,Hubei,,China,12,250.0,"30.66068, 114.3014",18,1/22/2021,1
+1916,"Payson, AZ",201 North Beeline Hwy,Payson,AZ,85541,USA,12,150.0,"34.242065, -111.322538",1514,12/29/2018,1
+1920,"Türkheim, Germany",Mindelheimer Str. 1,Türkheim,Bavaria,86842,Germany,8,250.0,"48.042523, 10.62013",607,5/22/2021,1
+1922,"Haikou - Hainan Guest House, China","Hainan Guest House, No. 9, Dayingshan West 3rd Road, Meilan District, Haikou City, Hainan",Haikou,Hainan,,China,9,250.0,"20.02002, 110.346558",15,2022-12-09 00:00:00,1
+1923,"Houston - Kipling Street, TX",2126 Kipling Street,Houston,TX,77098,USA,12,250.0,"29.739757, -95.412036",9,,1
+1925,"Changzhou - Red Star Macalline Wujin, China","No. 559, Changwu South Road, Wujin District, Changzhou City, Jiangsu",Changzhou,Jiangsu,,China,9,250.0,"31.667618, 119.959701",9,9/13/2022,1
+1930,"Manchester - South (SC), UK","396 Wellington Rd N, by Tesla store",Stockport,England,SK4 5AD,United Kingdom,8,250.0,"53.430295, -2.179375",69,2019-06-11 00:00:00,1
+1934,"Flachau, Austria",Unterberggasse 240,Flachau,Salzburg,5542,Austria,18,125.0,"47.354626, 13.386021",920,9/30/2017,1
+1935,"Talleyville, DE",4024 Concord Pike,Wilmington,DE,19803,USA,8,250.0,"39.8103, -75.5514",119,,1
+1936,"White Plains, MD",4210 Crain Hwy,White Plains,MD,20695,USA,8,250.0,"38.5955, -76.9372",62,8/18/2022,1
+1940,"Brooks, AB",1302 2 St W,Brooks,AB,T1R 1P7,Canada,8,250.0,"50.584342, -111.897623",761,2014-10-07 00:00:00,1
+1941,"Tofte, MN",10 Surfside Dr,Tofte,MN,55615,USA,8,250.0,"47.564434, -90.855776",208,7/15/2016,1
+1945,"Cedar Park, TX",1001 E. Whitestone Blvd,Cedar Park,TX,78613,USA,12,250.0,"30.525402, -97.819337",284,12/18/2021,1
+1946,"Newport, UK","Coldra Wood Drive, Caerleon",Newport,Wales,NP18 1HQ,United Kingdom,12,250.0,"51.601776, -2.934743",94,2022-09-12 00:00:00,1
+1950,"Hyannis, MA",425 Attucks Ln,Hyannis,MA,2601,USA,12,250.0,"41.676619, -70.307049",21,5/20/2020,1
+1952,"Austin - S Congress Ave, TX",1603 S Congress Ave,Austin,TX,78704,USA,8,250.0,"30.247661, -97.750105",167,11/23/2021,1
+1953,"Trento, Italy","Via Innsbruck, 11",Trento,Trentino-South Tyrol,38121,Italy,10,150.0,"46.111577, 11.092008",195,2017-08-08 00:00:00,1
+1959,"Kenosha, WI",7145 118th Ave,Kenosha,WI,53142,USA,12,250.0,"42.56911, -87.947466",212,12/18/2021,1
+1961,"Cary - Tryon Rd, NC",6466 Tryon Rd,Cary,NC,27518,USA,12,250.0,"35.745074, -78.762269",112,7/26/2016,1
+1962,"El Centro, CA",3451 S Dogwood Rd,El Centro,CA,92243,USA,12,150.0,"32.760837, -115.532486",-8,12/28/2014,1
+1963,"Williams, CA",464 6th St,Williams,CA,95987,USA,12,250.0,"39.15608, -122.149408",25,12/19/2019,1
+1964,"Gananoque, ON",705 King St E,Gananoque,ON,K7G 1H4,Canada,8,250.0,"44.3371, -76.1502",89,12/22/2022,1
+1965,"Shanghai - Gangcheng Plaza, China","B2 Floor, Underground Parking Lot, Haigang Avenue to Shuiyun Road, Pudong New Area",Shanghai,Shanghai,,China,8,120.0,"30.8955, 121.934471",-4,1/22/2021,1
+1967,"Bergkamen, Germany",Rünther Str. 153,Bergkamen,North Rhine-Westphalia,59192,Germany,12,250.0,"51.6495434, 7.671207",57,2022-08-12 00:00:00,1
+1968,"King's Lynn, UK","Beveridge Way, Hardwick Narrow",King's Lynn,England,PE30 4NB,United Kingdom,8,250.0,"52.73516519868067, 0.4138348756162883",6,2/26/2021,1
+1972,"Daegu-Suseong, South Korea","Daegu Suseong Art Square, 18, Suseongmot 6-gil",Suseong-gu,Daegu,,South Korea,8,250.0,"35.82726, 128.62369",76,2022-01-04 00:00:00,1
+1975,"Irvine - Culver Drive, CA",14346 Culver Dr,Irvine,CA,92604,USA,16,250.0,"33.706784, -117.785164",29,4/17/2021,1
+1978,"Rygge, Norway","Østre Huggenesvei - behind Circle-K gas station by E6, exit Rygge airport",Rygge,Viken,1580,Norway,42,150.0,"59.38753, 10.751039",46,12/20/2017,1
+1979,"Mondovì, Italy","Piazza Cerea 15, Mondovicino Shopping Center",Mondovì,Piedmont,12084,Italy,12,250.0,"44.420085, 7.850088",386,2023-08-03 00:00:00,1
+1980,"Kunming - Runcheng Second Avenue, China","Floor B1, Runcheng Second Avenue, Qianxing Road, Xishan District",Kunming,Yunnan,,China,8,120.0,"25.002725, 102.713156",1889,1/22/2021,1
+1981,"Newark - Gateway Blvd, CA",8200 Gateway Blvd,Newark,CA,94560,USA,18,250.0,"37.536013, -122.063348",3,,1
+1984,"Chicago - North Broadway, IL",3030 North Broadway,Chicago,IL,60657,USA,8,72.0,"41.937338, -87.644666",179,1/31/2018,1
+1985,"Orlando - Central Florida Pkwy, FL",5910 Central Florida Pkwy,Orlando,FL,32821,USA,8,250.0,"28.405944, -81.457879",27,1/26/2023,1
+1987,"Albertville, France",Chemin du Chiriac,Albertville,Auvergne-Rhône-Alpes,73200,France,16,250.0,"45.65548, 6.365633",330,2022-11-12 00:00:00,1
+1988,"Chongqing -Tea Garden Yingxun Tiandi, China","B1, Yingxun Tiandi Parking Lot, No. 15, Milan Road, Nan'an District, Chongqing",Chongqing,Chongqing,,China,9,250.0,"29.48235326, 106.6348558",268,9/22/2022,1
+1993,"Hangzhou - Huifeng International, China","Huifeng International Ground Parking Lot No. 2 Jingshanling Road, Xihu District",Hangzhou,Zhejiang,,China,9,250.0,"30.24012, 120.0508",12,1/22/2021,1
+1997,"Strömstad, Sweden",Lilla Oslovägen,Strömstad,Bohuslän,452 35,Sweden,20,250.0,"58.945931, 11.192941",5,3/29/2022,1
+2003,"Washington, IN",1 Gateway Dr,Washington,IN,47501,USA,8,250.0,"38.65239, -87.133018",150,11/24/2022,1
+2007,"Urumqi - Man Street Dining and Cultural Life Block, China",No. 83 Henan East Road,Urumqi,Xinjiang,,China,8,150.0,"43.87979, 87.57623",742,12/23/2020,1
+2008,"Ridgeland, SC",11142 N Jacob Smart Blvd,Ridgeland,SC,29936,USA,8,250.0,"32.485474, -80.977876",15,10/17/2014,1
+2009,"Kingsland, GA",Kingsland Welcome Center 1190 East Boone Ave,Kingsland,GA,31548,USA,8,150.0,"30.790764, -81.663729",9,11/18/2015,1
+2013,"Evansville, WY",6985 Nugget St,Evansville,WY,82636,USA,8,250.0,"42.846691, -106.214485",1570,2020-01-07 00:00:00,1
+2014,"Shenzhen - 1983 Creation Town, China",No.1 Nanxin Rd,Shenzhen,Guangdong,,China,10,120.0,"22.602722, 114.148057",119,2019-03-04 00:00:00,1
+2015,"Ashland, OR",580 Clover Ln,Ashland,OR,97520,USA,24,250.0,"42.182661, -122.662635",612,,1
+2020,"Pasadena, CA",155 E Green St,Pasadena,CA,91105,USA,24,72.0,"34.144835, -118.146609",258,11/26/2019,1
+2021,"Valenciennes, France",Rue de Maugré,Rouvignies,Hauts-de-France,59220,France,10,150.0,"50.336704, 3.455931",51,6/21/2017,1
+2025,"Beijing - Netcom Building, China","B1, Netcom Building, No. 28 Xiaoyun Road, Chaoyang District, Beijing",Beijing,Beijing,,China,14,150.0,"39.9589919, 116.465487",40,9/20/2022,1
+2027,"Shanghai - Jiangzhen Xinduhui, China","B1 Floor, Xinduhui, No. 409 Jianghui Road, Pudong New Area",Shanghai,Shanghai,,China,21,250.0,"31.177581, 121.746569",6,1/22/2021,1
+2028,"West Palm Beach - Palm Beach Outlets, FL",1801 Palm Beach Lakes Blvd,West Palm Beach,FL,33401,USA,8,250.0,"26.72622, -80.0875",5,7/21/2021,1
+2029,"Sheffield, OH",5295 Detroit Rd,Sheffield,OH,44054,USA,8,150.0,"41.426963, -82.076273",203,2018-10-02 00:00:00,1
+2030,"Lebanon, IN",1377 S Lebanon Street,Lebanon,IN,46052,USA,11,250.0,"40.035056, -86.469586",290,3/24/2023,1
+2031,"Champaign - W Kirby Ave, IL",2901 W Kirby Ave,Champaign,IL,61821,USA,12,250.0,"40.09741668253737, -88.294937287131",220,,1
+2033,"Oswego, IL",2700 US-34,Oswego,IL,60543,USA,12,250.0,"41.699456, -88.3123",202,5/28/2022,1
+2034,"Montreal - Rue Viger, QC",985 Boul. St-Laurent,Montréal,QC,H2Z 1J4,Canada,8,72.0,"45.507767, -73.558811",17,2/25/2022,1
+2043,"Monument, CO",17970 Knollwood Dr,Monument,CO,80132,USA,8,250.0,"39.092296, -104.852544",2154,2021-07-05 00:00:00,1
+2045,"Yuma, AZ",310 N Madison Ave,Yuma,AZ,85364,USA,12,250.0,"32.726686, -114.619093",43,2014-04-02 00:00:00,1
+2048,"Cheongju, South Korea","345-1 Yullyang.sacheon-dong, Sangdang-gu",Cheongju,Chungcheongbuk,,South Korea,8,250.0,"36.66529, 127.4993",61,3/30/2022,1
+2055,"Revelstoke - Victoria Rd, BC",555 Victoria Rd,Revelstoke,BC,V0E 2S0,Canada,8,250.0,"51.001766, -118.198354",458,9/28/2022,1
+2056,"Taichung - Chinmei Eslite Green Parkway, Taiwan","B3403, No. 68, Gongyi Road, West District, Taichung City",Taichung,Taichung,,Taiwan,8,120.0,"24.15162, 120.664184",103,2019-10-08 00:00:00,1
+2063,"West Cincinnati, OH",6550 Harrison Ave,Dent,OH,45247,USA,12,150.0,"39.193996, -84.65871",218,4/14/2018,1
+2067,"Williamsburg, VA",842 Merrimac Trail,Williamsburg,VA,23185,USA,8,250.0,"37.266487, -76.676613",25,12/18/2020,1
+2070,"Laredo, TX",110 Calle Del Norte Dr,Laredo,TX,78041,USA,8,150.0,"27.555003, -99.49424",133,2017-12-12 00:00:00,1
+2077,"Chesterton, IN",704 Plaza Dr,Chesterton,IN,46304,USA,12,250.0,"41.617607, -87.044702",194,3/15/2023,1
+2081,"Columbia, SC",8910 Farrow Rd,Columbia,SC,29203,USA,8,150.0,"34.106319, -80.950723",95,11/15/2016,1
+2083,"Lohne, Germany","Motorpark Lohne, Von-Siemens-Straße 1, Along A1/E37",Lohne,Lower Saxony,49393,Germany,20,250.0,"52.657695, 8.169447",27,2015-07-08 00:00:00,1
+2084,"Wuhan - Yunshang International Fashion Center, China","No. 388, Zhongshan Avenue, Qiaokou District, Wuhan City, Hubei",Wuhan,Hubei,,China,9,250.0,"30.576994, 114.285274",27,9/22/2022,1
+2090,Beijing - Youth Road,Chaoyang N. Rd,Beijing,Beijing,,China,8,120.0,"39.922634, 116.516151",36,1/15/2014,1
+2091,"Orlando - E Colonial Dr, FL",8049 E Colonial Dr,Orlando,FL,32818,USA,8,250.0,"28.568833, -81.277982",24,11/19/2012,1
+2092,"Missoula - US-93 N, MT",8745 US-93 N,Missoula,MT,59808,USA,12,250.0,"46.955035, -114.131741",1001,9/24/2014,1
+2093,"Oberhonnefeld, Germany",Westerwaldstraße 10,Oberhonnefeld,Rhineland-Palatinate,56587,Germany,40,250.0,"50.562473, 7.525672",385,12/20/2018,1
+2095,"Shenzhen - Hongsong Building, China","Tairan 9th Road and Tairan 6th Road, Futian District, Shenzhen, Guangdong",Shenzhen,Guangdong,,China,15,250.0,"22.53191921, 114.0243942",0,9/22/2022,1
+2099,"Milpitas, CA",901 East Calaveras Blvd,Milpitas,CA,95035,USA,16,150.0,"37.434536, -121.891387",10,11/16/2018,1
+2103,"Gensingen, Germany",Am Kieselberg 38-36,Gensingen,Rhineland-Palatinate,55457,Germany,22,250.0,"49.902512, 7.929372",101,10/25/2019,1
+2104,"Union City, CA",34536 Alvarado Niles Rd,Union City,CA,94587,USA,12,250.0,"37.587128, -122.020442",13,2/14/2022,1
+2106,"FTLife Tower, Hong Kong",18 Sheung Yuet Road Kowloon Bay,Hong Kong,Hong Kong,,China,18,250.0,"22.321232, 114.209787",13,6/24/2019,1
+2107,"Old Bridge, NJ",1453 NJ-18,Old Bridge,NJ,8857,USA,8,250.0,"40.39113, -74.340201",11,3/23/2022,1
+2108,"Tacna, AZ",9250 South Ave 40E,Tacna,AZ,95352,USA,8,250.0,"32.6900433, -113.9535836",113,3/24/2020,1
+2109,"West Des Moines, IA",1725 Jordan Creek Pkwy,West Des Moines,IA,50266,USA,8,150.0,"41.599019, -93.806336",300,10/21/2016,1
+2112,"Sault Ste. Marie, MI",1138 W. 3 Mile Rd,Sault Ste. Marie,MI,49783,USA,8,250.0,"46.463553, -84.386795",222,8/26/2021,1
+2121,"Two Harbors, MN",820 11th St,Two Harbors,MN,55616,USA,8,250.0,"47.028302, -91.6808",222,12/21/2022,1
+2122,"Cocoa, FL",923 W King St,Cocoa,FL,32922,USA,12,250.0,"28.355525, -80.741754",7,2017-03-03 00:00:00,1
+2123,"Old Fort, NC",121 Parker Padgett Rd,Old Fort,NC,28762,USA,12,250.0,"35.638228, -82.143169",416,11/21/2021,1
+2125,"Tokyo - Tokyo Bay, Japan","2-7-20 Shinonome, Koto-ku",Tokyo,Tokyo,,Japan,8,72.0,"35.642064, 139.803477",3,2019-02-10 00:00:00,1
+2126,"Land O Lakes, FL",25155 Maren Way,Land O Lakes,FL,34639,USA,8,250.0,"28.189347, -82.40032",21,2021-03-02 00:00:00,1
+2129,"Nottingham - Victoria Centre, UK",Glasshouse Street,Nottingham,England,NG1 3QN,United Kingdom,12,250.0,"52.957009, -1.147388",44,2022-03-04 00:00:00,1
+2132,"Sealy, TX",9027 Southeast I-10 Frontage Rd,Sealy,TX,77474,USA,8,250.0,"29.76911, -96.046154",41,2017-02-05 00:00:00,1
+2134,"Cobourg, ON","1125 Elgin Street West, Highway 2",Cobourg,ON,K9A 5T9,Canada,8,250.0,"43.969733, -78.203776",101,11/23/2022,1
+2136,"Florence - Houston Rd, KY",4990 Houston Rd,Florence,KY,41042,USA,12,250.0,"39.011489, -84.640279",1108,2021-01-05 00:00:00,1
+2139,"Jeonju, South Korea","45 Yongmeori-ro, Wansan-gu",Jeonju-si,Jeollabuk,,South Korea,8,250.0,"35.80698, 127.11566",30,2022-01-04 00:00:00,1
+2149,"Somerset - Eastbound Service Plaza, PA",327 Industrial Park Rd,Somerset,PA,15501,USA,8,250.0,"39.9995422, -79.0474265",708,7/21/2021,1
+2150,"Lincoln, NE",5020 N 27th St,Lincoln,NE,68521,USA,8,150.0,"40.860817, -96.679723",368,2017-05-01 00:00:00,1
+2154,"Princeton, WV",1000 Oakvale Rd,Princeton,WV,24740,USA,8,250.0,"37.364002, -81.052394",780,1/25/2022,1
+2156,"Alessandria, Italy",Via Vecchia Torino 20,Alessandria,Piedmont,15121,Italy,12,250.0,"44.916645, 8.5996",92,12/23/2022,1
+2158,"Medway - Westbound, UK","Moto medway services, M2",Rainham,England,,United Kingdom,12,250.0,"51.3406, 0.6086",111,7/15/2016,1
+2161,"Portsmouth, RI",3302 E Main Rd,Portsmouth,RI,2871,USA,8,250.0,"41.617703, -71.247255",31,3/29/2017,1
+2164,"Concord, ON",Fishermans Way,Concord,ON,,Canada,20,150.0,"43.827, -79.539",220,12/22/2017,1
+2170,"Parndorf, Austria",Shoppingstraße 1,Parndorf,Burgenland,7111,Austria,20,250.0,"47.98035, 16.8426158",175,,1
+2171,"Grinnell, IA",715 Lang Creek Ave,Grinnell,IA,50112,USA,8,250.0,"41.700046, -92.726636",298,5/19/2022,1
+2176,"Rehoboth Beach - Coastal Hwy, DE",19791 Coastal Highway,Rehoboth Beach,DE,19971,USA,8,250.0,"38.716616, -75.109997",7,10/17/2014,1
+2187,"Wuhan - Optics Valley New Development International Center, China","Area D, B2, No.473 Guanshan Avenue, Hongshan District",Wuhan,Hubei,,China,10,120.0,"30.48101622, 114.4110274",43,1/22/2021,1
+2188,"Provincetown, MA",698 Commerical St,Provincetown,MA,2657,USA,12,250.0,"42.062319, -70.162513",3,7/26/2014,1
+2193,"Krokomsporten, Krokom, Sweden","Across the road from OK/Q8, Krokomsporten 3",Krokom,Jämtland,835 32,Sweden,8,150.0,"63.328793, 14.43",303,11/18/2014,1
+2197,"Findlay, OH",1051 Interstate Ct,Findlay,OH,45840,USA,8,250.0,"41.059623, -83.671058",238,11/13/2021,1
+2198,"Saintes, France",132 Cours Genet,Saintes,Nouvelle-Aquitaine,17100,France,8,150.0,"45.75, -0.661722",48,2014-06-11 00:00:00,1
+2202,"Grasonville - Hissey Rd, MD",101 Hissey Rd,Grasonville,MD,21638,USA,8,,"38.965566, -76.194145",4,2017-08-06 00:00:00,1
+2204,"Marshall, MI",15252 US Hwy 27 N,Marshall,MI,49068,USA,8,150.0,"42.292009, -84.964122",289,2017-06-07 00:00:00,1
+2207,"New Bern, NC",2507 Dr. M.L.K. Jr Blvd,New Bern,NC,28562,USA,8,250.0,"35.104124, -77.080448",7,2021-04-09 00:00:00,1
+2214,"Hollywood - Universal Hollywood Dr, CA",333 E Universal Hollywood Dr,Hollywood,CA,90068,USA,12,250.0,"34.13681, -118.359396",210,7/17/2014,1
+2215,"Tonopah, NV",171 Main St,Tonopah,NV,89049,USA,8,150.0,"38.069801, -117.232243",1834,2016-03-06 00:00:00,1
+2219,"Maple Shade, NJ",2801 Route 73 South,Maple Shade,NJ,8052,USA,8,250.0,"39.937134, -74.970511",17,2/21/2020,1
+2220,"Vikeså, Norway","By Coop Extra store, Vikesågata 1",Vikeså,Rogaland,4389,Norway,12,150.0,"58.63192, 6.077767",78,6/21/2018,1
+2221,"Watertown, SD",1320 9th Ave SE,Watertown,SD,57201,USA,8,250.0,"44.889, -97.093",524,8/23/2021,1
+2223,"Grove City - London Groveport Rd, OH",2811 London Groveport Rd,Grove City,OH,43123,USA,12,250.0,"39.837853, -83.079126",248,5/24/2017,1
+2227,"Sandusky, OH",4702 Milan Rd,Sandusky,OH,44870,USA,10,150.0,"41.410173, -82.662914",185,2018-03-07 00:00:00,1
+2228,"Sturbridge, MA",196 Main St,Sturbridge,MA,1566,USA,12,250.0,"42.098547, -72.072596",216,3/24/2023,1
+2236,"Columbia - Harbison Blvd, SC",320 Harbison Blvd,Columbia,SC,29212,USA,16,250.0,"34.0729, -81.155649",84,2022-01-08 00:00:00,1
+2242,"Rownhams - Northbound, UK",Northbound Services,Southampton,England,SO16 8AP,United Kingdom,12,250.0,"50.9581273, -1.4480566",55,7/15/2016,1
+2250,"Fujairah, UAE","Century Mall, Al Qasar Road, Near Umbrealla Beach, Fujairah",Fujairah,,,United Arab Emirates,8,250.0,"25.157363, 56.350036",5,10/17/2022,1
+2251,"Vallejo, CA",904 Admiral Callaghan Ln,Vallejo,CA,94591,USA,18,150.0,"38.131215, -122.223369",30,6/21/2019,1
+2254,"Mora, Sweden",Strandgatan 8B,Mora,Dalarna,792 30,Sweden,8,150.0,"61.005921, 14.54418",157,10/16/2015,1
+2255,"Yangzhou - Sansheng International Plaza, China","Floor B2, Underground Parking Lot, Sansheng International Plaza, No.358, Hanjiang Middle Road",Yangzhou,Jiangsu,,China,9,250.0,"32.38734571, 119.4038755",8,1/22/2021,1
+2258,"Waterloo, NY",1133 Ridge Rd,Waterloo,NY,13165,USA,8,150.0,"42.970012, -76.846134",156,2017-12-03 00:00:00,1
+2259,"Zhangjiakou - Chongli Genting Hotel, China","Yunding Hotel, Wutong Avenue, Taizicheng Village, Sitaizui Township, Chongli District",Zhangjiakou,Hebei,,China,8,120.0,"40.95463031, 115.4423746",1982,1/22/2021,1
+2262,"Plainview, TX",808 N I-27,Plainview,TX,79072,USA,8,250.0,"34.188839, -101.749148",1035,2023-06-04 00:00:00,1
+2266,"Brumunddal, Norway",Mjøstårnet,Brumunddal,Innlandet,2380,Norway,20,150.0,"60.876807, 10.930353",124,2019-01-03 00:00:00,1
+2270,"Bel Air, MD",601 Hoagie Dr,Bel Air,MD,21014,USA,8,250.0,"39.568667, -76.353746",139,2022-09-02 00:00:00,1
+2273,"San Jose - Coleman Ave, CA",533 Coleman Ave,San Jose,CA,95110,USA,12,150.0,"37.339661, -121.905085",24,2018-01-09 00:00:00,1
+2276,"Hangzhou - Sports Park, China","Road No.129 Baishi Rd, Xiacheng District",Hangzhou,Zhejiang,310000,China,8,120.0,"30.313698, 120.164806",11,12/24/2017,1
+2277,"Hanover - Shipley Homestead Dr, MD",7910 Shipley Homestead Dr,Hanover,MD,21076,USA,8,250.0,"39.132463, -76.739539",57,12/18/2015,1
+2279,"Åndalsnes, Norway","By Raumasenteret, along E136 at Øran",Åndalsnes,Møre og Romsdal,6300,Norway,12,150.0,"62.557729, 7.685328",7,2018-07-06 00:00:00,1
+2282,"Newark, UK","Maltings Retail Park, N Gate",Newark,England,NG24 1HD,United Kingdom,10,250.0,"53.081235, -0.806391",16,2/14/2023,1
+2290,"Burlington, MA",75 Middlesex Turnpike,Burlington,MA,1803,USA,12,250.0,"42.4836, -71.2164",42,7/28/2022,1
+2292,"Fort Wayne - Illinois Rd, IN",5909 Illinois Rd,Fort Wayne,IN,46804,USA,12,250.0,"41.07321, -85.21819",250,6/24/2022,1
+2293,"Dongguan - Nancheng Tesla Center, China","Tian'an Digital City, No. 1, Huangjin Road, Nancheng District, Dongguan City, Guangdong Province",Dongguan,Guangdong,,China,8,120.0,"22.996033, 113.712298",1,1/22/2021,1
+2295,"Porta Westfalica, Germany",Am Autohof 4,Porta Westfalica,,32457,Germany,20,250.0,"52.2095, 8.87243",61,5/24/2017,1
+2298,"Iowa, LA",800 V F Factory Outlet Dr,Iowa,LA,70647,USA,8,250.0,"30.247262, -93.010598",7,2013-09-12 00:00:00,1
+2300,"Lynchburg, VA",14480 Wards Rd,Lynchburg,VA,24502,USA,8,250.0,"37.32486, -79.190523",283,2020-06-02 00:00:00,1
+2304,"Fort Pierce - Kings Hwy, FL",121 S Kings Hwy,Fort Pierce,FL,34945,USA,8,250.0,"27.446551, -80.399403",6,,1
+2309,"Steele, AL",905 Steele Station Rd,Steele,AL,35987,USA,8,150.0,"33.933824, -86.191611",171,2017-09-08 00:00:00,1
+2310,"Sioux City - Southern Hills Dr, IA",4727 Southern Hills Dr,Sioux City,IA,51106,USA,8,250.0,"42.440787, -96.346112",385,5/19/2021,1
+2311,"Burr Ridge, IL",515 Village Center Dr,Burr Ridge,IL,60527,USA,16,250.0,"41.7523, -87.9137",213,5/24/2022,1
+2312,"Battle Creek, MI",6405 B Dr N,Battle Creek,MI,49014,USA,12,250.0,"42.26246, -85.17463",285,11/30/2021,1
+2313,"Nepean - Robertson Rd, ON",2135 Robertson Rd,Nepean,ON,K2H 8G3,Canada,8,250.0,"45.32191, -75.835509",91,10/23/2020,1
+2316,"Salzburg-Nord, Austria",Carl-Zuckmayer-Straße 4,Salzburg,Salzburg,5101,Austria,10,250.0,"47.83591612046934, 13.0592124331495",441,3/21/2022,1
+2317,"Santa Maria, CA",371 Town Center E,Santa Maria,CA,93454,USA,20,250.0,"34.952928, -120.434555",67,5/18/2022,1
+2319,"Warsaw - NC-24, NC",2669 NC-24,Warsaw,NC,28398,USA,12,250.0,"34.992695, -78.135604",47,9/17/2021,1
+2321,"Abilene, KS",1900 N Buckeye Ave,Abilene,KS,67410,USA,12,250.0,"38.935417, -97.215371",371,11/15/2022,1
+2322,"Bonifay, FL",2765 S Waukesha St,Bonifay,FL,32425,USA,8,250.0,"30.760751, -85.685735",37,11/30/2021,1
+2323,"Los Altos - Loucks Ave, CA",32 Loucks Ave,Los Altos,CA,94022,USA,20,250.0,"37.399922, -122.114897",24,,1
+2324,"Fort Lauderdale, FL",2620 W Broward Blvd,Fort Lauderdale,FL,33312,USA,8,250.0,"26.120885, -80.177098",2,2020-06-04 00:00:00,1
+2329,"Atalaya del Cañavate, Spain",Área 175,Atalaya del Cañavate,Castilla-La Mancha,16710,Spain,10,150.0,"39.538687, -2.254555",818,2018-04-07 00:00:00,1
+2331,"Washington, PA",331 Washington Rd,Washington,PA,15301,USA,8,250.0,"40.1873056, -80.2293889",370,2020-05-08 00:00:00,1
+2333,"Bangkok - CentralWorld, Thailand","4 4/1-4/2 Rama I Rd, Khwaeng Pathum Wan",Bangkok,Bangkok,10330,Thailand,9,250.0,"13.746589, 100.539418",19,2/15/2023,1
+2334,"Ashburn, VA",43300 Southern Walk Plaza,Ashburn,VA,20148,USA,8,250.0,"39.008466, -77.504972",99,2/20/2020,1
+2335,"Chongqing - Panlong Aoyuan Plaza, China","Row F13/F19 on the second floor of Panlong Aoyuan Plaza, Panyu Road, Jiulongpo District",Chongqing,Chongqing,,China,8,120.0,"29.509086, 106.497446",279,1/22/2021,1
+2336,"Kiryat Shmona, Israel","Tel Hai St/Route 90, Southern Industrial Zone",Kiryat Shmona,,11572,Israel,8,250.0,"33.193156, 35.571476",74,5/16/2022,1
+2337,"North East - Pulaski Hwy, MD",2031 Pulaski Hwy,North East,MD,21901,USA,12,250.0,"39.612899, -75.930972",22,3/15/2023,1
+2340,"Speedway, IN",6311 Crawfordsville Rd,Indianapolis,IN,46224,USA,8,250.0,"39.80066, -86.270482",226,5/28/2021,1
+2341,"Weifang - Tesla Center, China","7007 Beigong West Street, Economic Development Zone, Weicheng District",Weifang,Shandong,,China,9,250.0,"36.732649, 119.042627",22,1/22/2021,1
+2342,"Van Horn, TX",1921 SW Frontage Rd,Van Horn,TX,79855,USA,8,150.0,"31.03448, -104.861431",1230,2/20/2017,1
+2348,"Suzhou - Yinshan Lake Aegean Shopping Park, China","Aegean Shopping Park, No. 888 Qinghe Road, Yinshan Lake, Wuzhong District",Suzhou,Jiangsu,,China,10,120.0,"31.251262, 120.709638",6,1/22/2021,1
+2349,"Coeur d'Alene, ID",3458 N Fruitland Ln,Coeur d'Alene,ID,83815,USA,14,250.0,"47.708479, -116.794283",685,2015-04-03 00:00:00,1
+2351,"Owings Mills, MD",10450 Grand Central Ave,Owings Mills,MD,21117,USA,12,250.0,"39.407596, -76.782871",144,,1

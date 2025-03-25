@@ -1,0 +1,4 @@
+In This will be exprementing on data sets 
+and trying to clean and create visualization glits 
+to check how data is getting associated with and 
+how it help ml to process everything 

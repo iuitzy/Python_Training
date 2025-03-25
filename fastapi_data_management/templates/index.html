@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FastAPI Data Management</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>FastAPI Data Management System</h1>
+    <p><a href='/dataframe'>View DataFrame</a></p>
+    <p><a href='/users'>View Users</a></p>
+    <form action="/users" method="post">
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <button type="submit">Add User</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}Banking System{% endblock %}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a> | <a href="/dashboard">Dashboard</a> | <a href="/login">Login</a> | <a href="/register">Register</a>
+    </nav>
+    <div>{% block content %}{% endblock %}</div>
+</body>
+</html>
