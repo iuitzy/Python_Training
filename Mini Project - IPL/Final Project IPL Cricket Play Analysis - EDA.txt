@@ -1,0 +1,41 @@
+Mini Project: IPL Cricket Play Analysis
+
+Two Datasets:
+- match_info_data.csv
+- match_data.csv
+
+Objectives (Technical):
+- Find and handle missing values, duplicate records, and outliers
+- Find Descriptive Statistics for each of the required numerical features
+- Perform Feature Selection
+- Perform label encoding
+- Perform Feature Engineering:
+  a) Add a column that provides a serial number to each match-->match id 
+  b) Add a column for total runs by adding runs taken by bat and extras for that ball --> bat + extras
+- Create/Execute a Python program that can take the cleaned data from CSV file and translate that to JSON--> input cs file and output as json file 
+- Perform Minmax Scaling on the required numerical features 
+
+
+Objectives (Business):
+- Find the ratio of matches whose decision is made with D/L method and plot that on a Pie Chart.--> how much normally won nd using dl method
+- What is the all-time lowest score of Rajasthan Royals?--> find the lowest 
+- Plot a Box plot comparing all-time scores in the first inning vs the second inning of IPL.
+- Plot a Bar Chart showing the number of IPL matches played in the last five seasons.
+- Plot a Histogram showing the distribution of an important aspect of your choice --> choose any feature 
+- Find the top 5 teams who have always opted to field first, Plot a Bar Chart for that
+- Create a Line Chart comparing the performance of Royal Challengers Bangalore in last five seasons (Season   
+  vs Matches Won) 
+
+  -> high level steps 
+  ->code snippet 
+  ->one -line description about the code snippet  
+  ->challenges 
+  ->solution , Analysis 
+  ->data summary 
+
+
+
+
+
+
+
