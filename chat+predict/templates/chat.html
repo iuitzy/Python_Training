@@ -1,0 +1,62 @@
+<!-- <h2>Welcome, {{ user }}!</h2>
+<form action="/chat/query" method="get">
+  <input name="q" placeholder="Ask a question" required>
+  <button type="submit">Ask</button>
+</form>
+<a href="/predict">Go to Loan Prediction</a> -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat with Bot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        .chat-box {
+            margin-top: 20px;
+            padding: 15px;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            max-width: 500px;
+        }
+        .response-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Welcome, {{ user }}!</h2>
+
+    <form id="chat-form">
+        <input name="q" id="question" placeholder="Ask a question" required>
+        <button type="submit">Ask</button>
+    </form>
+
+    <div class="chat-box" id="chat-response" style="display: none;">
+        <div class="response-label">Bot Response:</div>
+        <div id="response-text"></div>
+    </div>
+
+    <br>
+    <a href="/predict">Go to Loan Prediction</a>
+
+    <script>
+        const form = document.getElementById('chat-form');
+        const questionInput = document.getElementById('question');
+        const responseBox = document.getElementById('chat-response');
+        const responseText = document.getElementById('response-text');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const query = questionInput.value;
+            const res = await fetch(`/chat/query?q=${encodeURIComponent(query)}`);
+            const data = await res.json();
+            responseText.textContent = data.response;
+            responseBox.style.display = 'block';
+        });
+    </script>
+</body>
+</html>

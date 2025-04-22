@@ -1,0 +1,11 @@
+Q: What is a savings account?
+A: A savings account is a bank account that earns interest.
+
+Q: How to apply for a loan?
+A: You can apply for a loan through our online portal.
+
+Q: What is the minimum balance for a current account?
+A: The minimum balance required is ₹10,000.
+
+Q: What are the documents required for loan approval?
+A: ID proof, Address proof, Salary slip, and Bank statement.
