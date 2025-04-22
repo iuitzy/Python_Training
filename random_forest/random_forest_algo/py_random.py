@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
  
  
 #load the dataset
-df=pd.read_csv(r'C:\Users\bhavithar\OneDrive - Maveric Systems Limited\Desktop\py_Basic\Python_Training\random_forest_algo\smartphone_data.csv')
+df=pd.read_csv(r'C:\Users\bhavithar\OneDrive - Maveric Systems Limited\Desktop\py_Basic\Python_Training\random_forest\random_forest_algo\smartphone_data.csv')
 print(df.head())    
  
 #checking missing values
@@ -29,12 +29,12 @@ sns.boxplot(data=df)
 plt.show()
  
 #apply one-hot encoding for categorical cols
-df=pd.get_dummies(df, columns=['Brand','processor'], drop_first=True)
+df=pd.get_dummies(df, columns=['Brand','Processor'], drop_first=True)
  
 #scaling
 scaler = StandardScaler()
-x=df.drop('Price(USD)',axis=1)
-y=df['Price(USD)']
+x=df.drop('Price (USD)',axis=1)
+y=df['Price (USD)']
 x_scaled = scaler.fit_transform(x)
  
 #split the dataset
@@ -52,5 +52,5 @@ print("Mean Squared Error:",mse)
 print("R2 Score:",r2)
  
 #Identify important features
-feature_importances = pd.series(model.feature_importances_, index=x.columns).sort_values(ascending=False)
+feature_importances = pd.Series(model.feature_importances_, index=x.columns).sort_values(ascending=False)
 print('feature_importances:',feature_importances)  
